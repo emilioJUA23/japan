@@ -22,16 +22,15 @@
 
 ```
 Week 1 → TOKYO (base)
-         └─ Day trips: Nikko, Kamakura, Yokohama
+         └─ Day trips: Nikko, Yokohama
 
-Week 2 → HAKONE → KYOTO (base)
+Week 2 → KYOTO (base)
          └─ Day trips: Nara, Osaka
 
 Week 3 → OSAKA (base) → HIROSHIMA → MIYAJIMA
-         └─ Day trip: Kobe, Kanazawa (if via JR pass)
+         └─ Day trip: Kanazawa (if via JR pass)
 
-Week 4 → OKINAWA (if martial arts / beach)
-         OR HOKKAIDO (if nature / food)
+Week 4 → OKINAWA
          → Return to TOKYO (2–3 days buffer + shopping)
 ```
 
@@ -81,7 +80,7 @@ Week 4 → OKINAWA (if martial arts / beach)
 | Ryokan (Traditional Inn) | ¥15,000–¥50,000 | Cultural experience; includes meals |
 | Guesthouse / Hostel | ¥2,500–¥5,000 | Budget; meet travelers |
 
-**Tip for a month-long trip:** Mix it up — capsule for a night or two, ryokan 1–2 times in Hakone/Kyoto, apartment rental for a week-long base.
+**Tip for a month-long trip:** Mix it up — capsule for a night or two, ryokan 1–2 times in Kyoto, apartment rental for a week-long base.
 
 ---
 

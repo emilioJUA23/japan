@@ -9,7 +9,7 @@
 
 ### 🏙️ Cities — Quick Jump
 
-[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🗻 HAKONE|🗻 Hakone]] · [[#⚔️ KAMAKURA|⚔️ Kamakura]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🦑 YOKOHAMA|🦑 Yokohama]] · [[#🏝️ OKINAWA|🏝️ Okinawa]] · [[#🔥 NAGASAKI|🔥 Nagasaki]] · [[#🥩 KOBE|🥩 Kobe]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
+[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🦑 YOKOHAMA|🦑 Yokohama]] · [[#🏝️ OKINAWA|🏝️ Okinawa]] · [[#🔥 NAGASAKI|🔥 Nagasaki]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
 
 ---
 
@@ -24,13 +24,10 @@
 | [[#🦌 NARA\|🦌 Nara]] | ✅ | — | — | — | ✅ | — | — | — | — |
 | [[#🏙️ OSAKA\|🏙️ Osaka]] | — | ✅ | — | — | — | ✅ | ✅ | ✅ | — |
 | [[#🌊 HIROSHIMA & MIYAJIMA\|🌊 Hiroshima]] | ✅ | ✅ | — | — | ✅ | — | — | — | — |
-| [[#🗻 HAKONE\|🗻 Hakone]] | — | ✅ | — | — | ✅ | — | — | — | ✅ |
-| [[#⚔️ KAMAKURA\|⚔️ Kamakura]] | ✅ | — | — | — | ✅ | — | — | — | — |
 | [[#🦌 NIKKO\|🦌 Nikko]] | ✅ | — | — | — | ✅ | — | — | — | — |
 | [[#🦑 YOKOHAMA\|🦑 Yokohama]] | — | ✅ | — | ✅ | — | — | — | ✅ | — |
 | [[#🏝️ OKINAWA\|🏝️ Okinawa]] | ✅ | — | — | — | ✅ | ✅ | — | — | — |
 | [[#🔥 NAGASAKI\|🔥 Nagasaki]] | — | ✅ | — | — | — | — | — | — | — |
-| [[#🥩 KOBE\|🥩 Kobe]] | — | ✅ | — | — | — | ✅ | — | — | — |
 | [[#🍣 KANAZAWA ("Little Kyoto")\|🍣 Kanazawa]] | — | ✅ | — | — | — | — | — | — | — |
 
 ---
@@ -45,7 +42,7 @@
 
 ### 🌸 Cherry Blossom Spots
 
-[[#🗼 TOKYO|Tokyo]] (Shinjuku Gyoen · Ueno Park) · [[#🏯 KYOTO|Kyoto]] (Philosopher's Path · Maruyama Park) · [[#🗻 HAKONE|Hakone]] (Mt. Fuji backdrop) · [[#⚔️ KAMAKURA|Kamakura]] (temple grounds) · [[#🦌 NARA|Nara]] (Nara Park) · [[#🦌 NIKKO|Nikko]] (Irohazaka forest)
+[[#🗼 TOKYO|Tokyo]] (Shinjuku Gyoen · Ueno Park) · [[#🏯 KYOTO|Kyoto]] (Philosopher's Path · Maruyama Park) · [[#🦌 NARA|Nara]] (Nara Park) · [[#🦌 NIKKO|Nikko]] (Irohazaka forest)
 
 ---
 
@@ -262,49 +259,6 @@
 
 ---
 
-## 🗻 HAKONE
-
-### 🌿 Nature & Parks
-| Name | Notes |
-|------|-------|
-| Mt. Fuji View Points | Ashi Lake, Owakudani, Motohakone |
-| Lake Ashi Cruise | Pirate ship cruise with Fuji backdrop |
-| Owakudani Volcanic Area | Active sulfur vents; black eggs! |
-| Hakone Ropeway | Aerial views over volcanic landscape |
-
-### 🏛️ Cultural & Historical
-| Name | Notes |
-|------|-------|
-| Hakone Open Air Museum | Outdoor sculpture park + Picasso pavilion |
-| Pola Museum of Art | World-class collection in forest setting |
-| Amazake-chaya Teahouse | 400-year-old rest stop on old Tokaido road |
-
-### 🎭 Traditional Arts & Experiences
-| Name | Notes |
-|------|-------|
-| Onsen Ryokan Stay | Soak in natural hot springs; multi-course kaiseki dinner |
-
----
-
-## ⚔️ KAMAKURA
-
-### ⛩️ Temples & Shrines
-| Name | Notes |
-|------|-------|
-| Kotoku-in (Great Buddha) | 13.4m bronze Amida Buddha; iconic |
-| Tsurugaoka Hachimangu | Main Kamakura shrine; hilltop approach |
-| Hase-dera Temple | Stunning ocean views; cave of 1,000 Jizo statues |
-| Engaku-ji Temple | Zen temple complex in forested valley |
-| Zeniarai Benzaiten | Wash money in the spring to multiply it (folk belief) |
-
-### 🌿 Nature & Parks
-| Name | Notes |
-|------|-------|
-| Kamakura Hiking Trails | Daibutsu, Tenen, Gionyama trails through hills |
-| Sagami Bay Beaches | Yuigahama & Zaimokuza beaches (summer) |
-
----
-
 ## 🦌 NIKKO
 
 ### ⛩️ Temples & Shrines
@@ -383,22 +337,6 @@
 | Dutch Slopes (Oranda-zaka) | Old foreign settlement cobblestone streets |
 | Dejima Island | Reconstructed Dutch trading post |
 | Sofuku-ji Temple | Ming Dynasty Chinese-style architecture |
-
----
-
-## 🥩 KOBE
-
-### 🍜 Food & Markets
-| Name | Notes |
-|------|-------|
-| Kobe Beef Restaurant (any) | Teppanyaki or yakiniku; budget accordingly |
-| Nishiki Ichiba | Local covered market |
-
-### 🏛️ Cultural & Historical
-| Name | Notes |
-|------|-------|
-| Kitano Ijinkan | Western-style foreign residents' historic homes |
-| Meriken Park | Waterfront with Kobe Port Tower |
 
 ---
 

@@ -63,14 +63,13 @@
 | Category | Item | Nights | Low/Night (USD) | High/Night (USD) | Low Total (USD) | High Total (USD) | Planned (USD) | Actual (USD) | Notes |
 |---|---|---|---|---|---|---|---|---|---|
 | Accommodation | Tokyo — Week 1 | 7 | 60 | 100 | 420 | 700 | | | Business hotel or apartment |
-| Accommodation | Hakone | 2 | 130 | 250 | 260 | 500 | | | Ryokan recommended; meals often included |
 | Accommodation | Kyoto | 5 | 55 | 90 | 275 | 450 | | | Guesthouse or mid-range hotel |
 | Accommodation | Nara | 1 | 55 | 80 | 55 | 80 | | | Business hotel |
 | Accommodation | Osaka | 4 | 55 | 85 | 220 | 340 | | | Business hotel |
 | Accommodation | Hiroshima | 2 | 50 | 80 | 100 | 160 | | | Business hotel |
 | Accommodation | Okinawa | 6 | 55 | 90 | 330 | 540 | | | Hotel or guesthouse |
 | Accommodation | Tokyo — Final buffer days | 3 | 60 | 100 | 180 | 300 | | | Business hotel |
-| **ACCOMMODATION TOTAL** | | **30** | | | **1840** | **3070** | | | |
+| **ACCOMMODATION TOTAL** | | **28** | | | **1580** | **2570** | | | |
 
 ---
 
@@ -94,7 +93,7 @@
 | Food | Casual lunch (ramen, soba, udon) | 8 | 15 | 25 | 200 | 375 | | | Per meal; not every day |
 | Food | Sit-down dinner (mid-range) | 20 | 35 | 20 | 400 | 700 | | | Per meal; estimated 20 nights |
 | Food | Coffee / drinks / snacks | 5 | 10 | 30 | 150 | 300 | | | Vending machines are everywhere |
-| Food | Special dining experiences | 80 | 300 | 4 | 320 | 1200 | | | Omakase, kaiseki, Kobe beef — budget 3–5 |
+| Food | Special dining experiences | 80 | 300 | 4 | 320 | 1200 | | | Omakase, kaiseki — budget 3–5 |
 | **FOOD TOTAL** | | | | | **1220** | **2875** | | | |
 
 ---
@@ -168,18 +167,18 @@
 | Tab | Category | Low (USD) | High (USD) | Planned (USD) | Actual (USD) |
 |---|---|---|---|---|---|
 | TAB 1 | Flights | 1375 | 2565 | | |
-| TAB 2 | Accommodation | 1840 | 3070 | | |
+| TAB 2 | Accommodation | 1580 | 2570 | | |
 | TAB 3 | In-Japan Transport | 730 | 950 | | |
 | TAB 4 | Food & Drink | 1220 | 2875 | | |
 | TAB 5 | Attractions & Experiences | 558 | 1113 | | |
 | TAB 6 | Shopping & Souvenirs | 250 | 1550 | | |
 | TAB 7 | Connectivity & Misc | 370 | 760 | | |
 | TAB 8 | Pre-trip One-Time Costs | 700 | 1270 | | |
-| | **Subtotal** | **7043** | **14153** | | |
-| | **Emergency Buffer (10%)** | **704** | **1415** | | |
-| | **GRAND TOTAL** | **7747** | **15568** | | |
+| | **Subtotal** | **6783** | **13653** | | |
+| | **Emergency Buffer (10%)** | **678** | **1365** | | |
+| | **GRAND TOTAL** | **7461** | **15018** | | |
 
-### Realistic Sweet Spot: ~$9,000–$11,000 USD for a comfortable 30-day trip
+### Realistic Sweet Spot: ~$8,500–$10,500 USD for a comfortable 28-day trip
 
 ---
 
