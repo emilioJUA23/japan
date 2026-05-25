@@ -50,7 +50,7 @@ Week 4 → OKINAWA (if martial arts / beach)
 - Get at airport on arrival — **essential**
 
 ### Domestic Flights
-- Consider flying to Okinawa or Hokkaido (faster & sometimes cheaper than JR)
+- Consider flying to Okinawa (faster & sometimes cheaper than JR)
 - Airlines: ANA, JAL, Peach, Jetstar Japan
 
 ---

@@ -32,7 +32,6 @@
 | Flight | Round-trip Premium Economy GUA→TYO | 2200 | 4000 | | | Recommended for 24hr journey |
 | Flight | Round-trip Business GUA→TYO | 4500 | 9000 | | | Lie-flat; prices vary widely |
 | Flight | Domestic — Tokyo to Okinawa OW | 80 | 150 | | | Peach / Jetstar Japan; if Okinawa in itinerary |
-| Flight | Domestic — Tokyo to Sapporo OW | 80 | 180 | | | ANA / JAL / Peach; if Hokkaido in itinerary |
 | Flight | Airport transfer — NRT to Tokyo | 15 | 35 | | | Narita Express (N'EX) or Limousine Bus |
 | **FLIGHTS TOTAL** | | **1375** | **2565** | | | Excluding domestic if not applicable |
 
@@ -69,7 +68,7 @@
 | Accommodation | Nara | 1 | 55 | 80 | 55 | 80 | | | Business hotel |
 | Accommodation | Osaka | 4 | 55 | 85 | 220 | 340 | | | Business hotel |
 | Accommodation | Hiroshima | 2 | 50 | 80 | 100 | 160 | | | Business hotel |
-| Accommodation | Okinawa or Hokkaido | 6 | 55 | 90 | 330 | 540 | | | Hotel or guesthouse |
+| Accommodation | Okinawa | 6 | 55 | 90 | 330 | 540 | | | Hotel or guesthouse |
 | Accommodation | Tokyo — Final buffer days | 3 | 60 | 100 | 180 | 300 | | | Business hotel |
 | **ACCOMMODATION TOTAL** | | **30** | | | **1840** | **3070** | | | |
 

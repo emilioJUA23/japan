@@ -9,7 +9,7 @@
 
 ### 🏙️ Cities — Quick Jump
 
-[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🗻 HAKONE|🗻 Hakone]] · [[#⚔️ KAMAKURA|⚔️ Kamakura]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🦑 YOKOHAMA|🦑 Yokohama]] · [[#🏝️ OKINAWA|🏝️ Okinawa]] · [[#🍺 SAPPORO / HOKKAIDO|🍺 Sapporo / Hokkaido]] · [[#🔥 NAGASAKI|🔥 Nagasaki]] · [[#🥩 KOBE|🥩 Kobe]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
+[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🗻 HAKONE|🗻 Hakone]] · [[#⚔️ KAMAKURA|⚔️ Kamakura]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🦑 YOKOHAMA|🦑 Yokohama]] · [[#🏝️ OKINAWA|🏝️ Okinawa]] · [[#🔥 NAGASAKI|🔥 Nagasaki]] · [[#🥩 KOBE|🥩 Kobe]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
 
 ---
 
@@ -29,7 +29,6 @@
 | [[#🦌 NIKKO\|🦌 Nikko]] | ✅ | — | — | — | ✅ | — | — | — | — |
 | [[#🦑 YOKOHAMA\|🦑 Yokohama]] | — | ✅ | — | ✅ | — | — | — | ✅ | — |
 | [[#🏝️ OKINAWA\|🏝️ Okinawa]] | ✅ | — | — | — | ✅ | ✅ | — | — | — |
-| [[#🍺 SAPPORO / HOKKAIDO\|🍺 Hokkaido]] | — | ✅ | — | — | ✅ | ✅ | — | — | — |
 | [[#🔥 NAGASAKI\|🔥 Nagasaki]] | — | ✅ | — | — | — | — | — | — | — |
 | [[#🥩 KOBE\|🥩 Kobe]] | — | ✅ | — | — | — | ✅ | — | — | — |
 | [[#🍣 KANAZAWA ("Little Kyoto")\|🍣 Kanazawa]] | — | ✅ | — | — | — | — | — | — | — |
@@ -370,32 +369,6 @@
 |------|-------|
 | Makishi Public Market | Naha's lively food market; sashimi on 2F |
 | Kokusai-dori Street | Main tourist strip; try soki soba & champuru |
-
----
-
-## 🍺 SAPPORO / HOKKAIDO
-
-### 🌿 Nature & Parks
-| Name                      | Notes                                            |
-| ------------------------- | ------------------------------------------------ |
-| Furano Lavender Fields    | Peak bloom July; iconic purple carpets           |
-| Biei Blue Pond            | Vivid turquoise water; photogenic                |
-| Noboribetsu Jigokudani    | Hell Valley volcanic landscape & onsen           |
-| Daisetsuzan National Park | Japan's largest national park; hiking & wildlife |
-| Shiretoko Peninsula       | UNESCO; bears, deer, dramatic coast              |
-
-### 🍜 Food & Markets
-| Name                | Notes                                    |
-| ------------------- | ---------------------------------------- |
-| Sapporo Beer Museum | Free museum; paid tasting sessions       |
-| Nijo Market         | Fresh crab, seafood, Hokkaido dairy      |
-| Ramen Yokocho       | "Ramen Alley" — Sapporo-style miso ramen |
-
-### 🏛️ Cultural & Historical
-| Name                | Notes                             |
-| ------------------- | --------------------------------- |
-| Otaru Canal         | Romantic canal town; glass crafts |
-| Hokkaido University | Beautiful ginkgo tree avenue      |
 
 ---
 
