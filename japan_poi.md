@@ -9,7 +9,7 @@
 
 ### 🏙️ Cities — Quick Jump
 
-[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🗻 HAKONE|🗻 Hakone]] · [[#⚔️ KAMAKURA|⚔️ Kamakura]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🦑 YOKOHAMA|🦑 Yokohama]] · [[#🥋 OKINAWA (Karate Homeland)|🥋 Okinawa]] · [[#🍺 SAPPORO / HOKKAIDO|🍺 Sapporo / Hokkaido]] · [[#🔥 NAGASAKI|🔥 Nagasaki]] · [[#🥩 KOBE|🥩 Kobe]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
+[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🗻 HAKONE|🗻 Hakone]] · [[#⚔️ KAMAKURA|⚔️ Kamakura]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🦑 YOKOHAMA|🦑 Yokohama]] · [[#🏝️ OKINAWA|🏝️ Okinawa]] · [[#🍺 SAPPORO / HOKKAIDO|🍺 Sapporo / Hokkaido]] · [[#🔥 NAGASAKI|🔥 Nagasaki]] · [[#🥩 KOBE|🥩 Kobe]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
 
 ---
 
@@ -28,7 +28,7 @@
 | [[#⚔️ KAMAKURA\|⚔️ Kamakura]] | ✅ | — | — | — | ✅ | — | — | — | — |
 | [[#🦌 NIKKO\|🦌 Nikko]] | ✅ | — | — | — | ✅ | — | — | — | — |
 | [[#🦑 YOKOHAMA\|🦑 Yokohama]] | — | ✅ | — | ✅ | — | — | — | ✅ | — |
-| [[#🥋 OKINAWA (Karate Homeland)\|🥋 Okinawa]] | ✅ | — | ✅ | — | ✅ | ✅ | — | — | — |
+| [[#🏝️ OKINAWA\|🏝️ Okinawa]] | ✅ | — | — | — | ✅ | ✅ | — | — | — |
 | [[#🍺 SAPPORO / HOKKAIDO\|🍺 Hokkaido]] | — | ✅ | — | — | ✅ | ✅ | — | — | — |
 | [[#🔥 NAGASAKI\|🔥 Nagasaki]] | — | ✅ | — | — | — | — | — | — | — |
 | [[#🥩 KOBE\|🥩 Kobe]] | — | ✅ | — | — | — | ✅ | — | — | — |
@@ -38,7 +38,7 @@
 
 ### 🥋 Martial Arts Cities Only
 
-[[#🗼 TOKYO|Tokyo]] (Kodokan · Aikikai · Budokan) · [[#🏯 KYOTO|Kyoto]] (Butokuden) · [[#🥋 OKINAWA (Karate Homeland)|Okinawa]] (Karate Kaikan · birthplace tours)
+[[#🗼 TOKYO|Tokyo]] (Kodokan Judo Institute · Nippon Budokan) · [[#🏯 KYOTO|Kyoto]] (Butokuden · Kyoto Budo Center)
 
 ### 🎌 Manga & Anime Cities Only
 
@@ -74,9 +74,7 @@
 | Name | Neighborhood | Notes |
 |------|-------------|-------|
 | Kodokan Judo Institute | Bunkyo | World HQ of Judo; museum + watch live practice |
-| Nippon Budokan | Chiyoda | Iconic martial arts arena; concerts too |
-| Aikikai Hombu Dojo | Shinjuku | World HQ of Aikido; visitors can watch/join class |
-| Musashino Forest Sport Plaza | Chofu | Modern budo facility used in 2020 Olympics |
+| Nippon Budokan | Chiyoda | Historic budo arena; Judo & budo events held here |
 
 ### 🎌 Manga, Anime & Pop Culture
 | Name | Neighborhood | Notes |
@@ -167,8 +165,7 @@
 | Name | District | Notes |
 |------|---------|-------|
 | Butokuden Martial Arts Hall | Central | 1899 historic budo hall; occasional demonstrations |
-| Yoshinkan Aikido Kyoto | Various | Practice sessions for visitors |
-| Kyoto Budo Center | Fushimi | Multi-discipline facility |
+| Kyoto Budo Center | Fushimi | Multi-discipline budo facility |
 
 ### 🌿 Nature & Parks
 | Name | District | Notes |
@@ -351,15 +348,7 @@
 
 ---
 
-## 🥋 OKINAWA (Karate Homeland)
-
-### 🥋 Martial Arts
-| Name | Notes |
-|------|-------|
-| Okinawa Karate Kaikan | Prefecture facility; history of Karate + dojo experiences |
-| Shureido Karate Shop | The karate supply store in Naha |
-| Karate birthplace tour | Naha, Shuri, Tomari — the three original styles |
-| Motobu Udundi Ryukyu Bujutsu | Ancient royal court martial art demonstrations |
+## 🏝️ OKINAWA
 
 ### ⛩️ Temples & Shrines
 | Name | Notes |
@@ -387,26 +376,26 @@
 ## 🍺 SAPPORO / HOKKAIDO
 
 ### 🌿 Nature & Parks
-| Name | Notes |
-|------|-------|
-| Furano Lavender Fields | Peak bloom July; iconic purple carpets |
-| Biei Blue Pond | Vivid turquoise water; photogenic |
-| Noboribetsu Jigokudani | Hell Valley volcanic landscape & onsen |
+| Name                      | Notes                                            |
+| ------------------------- | ------------------------------------------------ |
+| Furano Lavender Fields    | Peak bloom July; iconic purple carpets           |
+| Biei Blue Pond            | Vivid turquoise water; photogenic                |
+| Noboribetsu Jigokudani    | Hell Valley volcanic landscape & onsen           |
 | Daisetsuzan National Park | Japan's largest national park; hiking & wildlife |
-| Shiretoko Peninsula | UNESCO; bears, deer, dramatic coast |
+| Shiretoko Peninsula       | UNESCO; bears, deer, dramatic coast              |
 
 ### 🍜 Food & Markets
-| Name | Notes |
-|------|-------|
-| Sapporo Beer Museum | Free museum; paid tasting sessions |
-| Nijo Market | Fresh crab, seafood, Hokkaido dairy |
-| Ramen Yokocho | "Ramen Alley" — Sapporo-style miso ramen |
+| Name                | Notes                                    |
+| ------------------- | ---------------------------------------- |
+| Sapporo Beer Museum | Free museum; paid tasting sessions       |
+| Nijo Market         | Fresh crab, seafood, Hokkaido dairy      |
+| Ramen Yokocho       | "Ramen Alley" — Sapporo-style miso ramen |
 
 ### 🏛️ Cultural & Historical
-| Name | Notes |
-|------|-------|
-| Otaru Canal | Romantic canal town; glass crafts |
-| Hokkaido University | Beautiful ginkgo tree avenue |
+| Name                | Notes                             |
+| ------------------- | --------------------------------- |
+| Otaru Canal         | Romantic canal town; glass crafts |
+| Hokkaido University | Beautiful ginkgo tree avenue      |
 
 ---
 
