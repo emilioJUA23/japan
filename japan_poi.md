@@ -5,6 +5,51 @@
 
 ---
 
+## 🗺️ INDEX
+
+### 🏙️ Cities — Quick Jump
+
+[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🗻 HAKONE|🗻 Hakone]] · [[#⚔️ KAMAKURA|⚔️ Kamakura]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🦑 YOKOHAMA|🦑 Yokohama]] · [[#🥋 OKINAWA (Karate Homeland)|🥋 Okinawa]] · [[#🍺 SAPPORO / HOKKAIDO|🍺 Sapporo / Hokkaido]] · [[#🔥 NAGASAKI|🔥 Nagasaki]] · [[#🥩 KOBE|🥩 Kobe]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
+
+---
+
+### 🗂️ Browse by Category
+
+> ✅ = section exists for this city · — = not covered
+
+| City | ⛩️ Temples | 🏛️ Cultural | 🥋 Martial Arts | 🎌 Manga & Anime | 🌿 Nature | 🍜 Food | 🎡 Entertainment | 🏙️ Modern | 🎭 Traditional |
+|---|---|---|---|---|---|---|---|---|---|
+| [[#🗼 TOKYO\|🗼 Tokyo]] | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [[#🏯 KYOTO\|🏯 Kyoto]] | ✅ | ✅ | ✅ | — | ✅ | ✅ | — | — | ✅ |
+| [[#🦌 NARA\|🦌 Nara]] | ✅ | — | — | — | ✅ | — | — | — | — |
+| [[#🏙️ OSAKA\|🏙️ Osaka]] | — | ✅ | — | — | — | ✅ | ✅ | ✅ | — |
+| [[#🌊 HIROSHIMA & MIYAJIMA\|🌊 Hiroshima]] | ✅ | ✅ | — | — | ✅ | — | — | — | — |
+| [[#🗻 HAKONE\|🗻 Hakone]] | — | ✅ | — | — | ✅ | — | — | — | ✅ |
+| [[#⚔️ KAMAKURA\|⚔️ Kamakura]] | ✅ | — | — | — | ✅ | — | — | — | — |
+| [[#🦌 NIKKO\|🦌 Nikko]] | ✅ | — | — | — | ✅ | — | — | — | — |
+| [[#🦑 YOKOHAMA\|🦑 Yokohama]] | — | ✅ | — | ✅ | — | — | — | ✅ | — |
+| [[#🥋 OKINAWA (Karate Homeland)\|🥋 Okinawa]] | ✅ | — | ✅ | — | ✅ | ✅ | — | — | — |
+| [[#🍺 SAPPORO / HOKKAIDO\|🍺 Hokkaido]] | — | ✅ | — | — | ✅ | ✅ | — | — | — |
+| [[#🔥 NAGASAKI\|🔥 Nagasaki]] | — | ✅ | — | — | — | — | — | — | — |
+| [[#🥩 KOBE\|🥩 Kobe]] | — | ✅ | — | — | — | ✅ | — | — | — |
+| [[#🍣 KANAZAWA ("Little Kyoto")\|🍣 Kanazawa]] | — | ✅ | — | — | — | — | — | — | — |
+
+---
+
+### 🥋 Martial Arts Cities Only
+
+[[#🗼 TOKYO|Tokyo]] (Kodokan · Aikikai · Budokan) · [[#🏯 KYOTO|Kyoto]] (Butokuden) · [[#🥋 OKINAWA (Karate Homeland)|Okinawa]] (Karate Kaikan · birthplace tours)
+
+### 🎌 Manga & Anime Cities Only
+
+[[#🗼 TOKYO|Tokyo]] (Akihabara · Nakano Broadway · Ghibli Museum · teamLab) · [[#🦑 YOKOHAMA|Yokohama]] (Gundam Factory · Cup Noodles Museum)
+
+### 🌸 Cherry Blossom Spots
+
+[[#🗼 TOKYO|Tokyo]] (Shinjuku Gyoen · Ueno Park) · [[#🏯 KYOTO|Kyoto]] (Philosopher's Path · Maruyama Park) · [[#🗻 HAKONE|Hakone]] (Mt. Fuji backdrop) · [[#⚔️ KAMAKURA|Kamakura]] (temple grounds) · [[#🦌 NARA|Nara]] (Nara Park) · [[#🦌 NIKKO|Nikko]] (Irohazaka forest)
+
+---
+
 ## 🗼 TOKYO
 
 ### ⛩️ Temples & Shrines
