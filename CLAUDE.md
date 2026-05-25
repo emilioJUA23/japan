@@ -12,7 +12,8 @@ japan/
 ├── japan_poi.md               ← Points of Interest grouped by city → category (incl. time + entry fees)
 ├── japan_trip_overview.md     ← Route, logistics, transport, key events, useful links
 ├── japan_budget.md            ← Full budget tracker; Excel-ready format
-└── japan_days_per_city.md     ← Days needed per city with suggested day breakdowns & calendar
+├── japan_days_per_city.md     ← Days needed per city with suggested day breakdowns & calendar
+└── japan_references.md        ← YouTube videos & articles for every POI (for research & decisions)
 ```
 
 ---
