@@ -102,21 +102,32 @@
 
 | Category | Item | Low (USD) | High (USD) | Planned (USD) | Actual (USD) | Priority | Notes |
 |---|---|---|---|---|---|---|---|
-| Attraction | Ghibli Museum (Mitaka) | 10 | 15 | | | High | Book months ahead — tickets sell out instantly |
-| Attraction | teamLab Borderless (Azabudai) | 35 | 45 | | | High | Book ahead online |
-| Attraction | Okinawa Karate Kaikan experience | 30 | 60 | | | High | Karate birthplace; dojo experiences available |
-| Attraction | Kodokan Judo Institute (Tokyo) | 0 | 20 | | | High | World HQ of Judo; watch live practice |
-| Attraction | Aikikai Hombu Dojo class (Tokyo) | 20 | 30 | | | High | Visitor aikido class; per session |
-| Attraction | DisneySea (Tokyo) | 85 | 100 | | | Medium | Arguably world's best theme park |
-| Attraction | Universal Studios Japan — Nintendo World | 90 | 120 | | | Medium | In Osaka; book Express Pass |
-| Attraction | Sumo tournament — Kokugikan | 25 | 200 | | | Medium | Tokyo: Jan / May / Sep — check if dates align |
-| Attraction | Kabuki-za single-act ticket | 10 | 30 | | | Low | Ginza; no full-show ticket needed |
-| Attraction | Tea ceremony experience | 30 | 60 | | | Low | Many options in Kyoto |
-| Attraction | Tokyo Skytree observation | 20 | 30 | | | Low | 450m deck |
-| Attraction | Temples & shrines (misc entry) | 100 | 200 | | | — | Budget for ~20 paid entries at ¥500–¥1000 each |
-| Attraction | Hiroshima Peace Memorial Museum | 3 | 3 | | | High | Essential; almost free |
-| Attraction | Miscellaneous / buffer | 100 | 200 | | | — | Unexpected entries, guided tours |
-| **ATTRACTIONS TOTAL** | | **558** | **1113** | | | | |
+| Attraction | Ghibli Museum — Tokyo (¥1,000) | 7 | 7 | | | High | **Book months ahead** — sells out instantly; ~$7 |
+| Attraction | teamLab Planets — Tokyo (¥4,200–4,800) | 28 | 32 | | | High | **Book ahead**; price varies by date |
+| Attraction | teamLab Borderless — Tokyo (¥3,800–5,600) | 25 | 37 | | | Medium | **Book ahead**; new Azabudai location |
+| Attraction | Kodokan Judo Institute — Tokyo (FREE) | 0 | 0 | | | High | Watch live practice; museum free |
+| Attraction | Tokyo Skytree — Tokyo (¥2,100–3,000) | 14 | 20 | | | Medium | Tembo Deck only or add Galleria |
+| Attraction | Shibuya Sky — Tokyo (¥2,700) | 18 | 18 | | | Medium | Book ahead; sunset recommended |
+| Attraction | DisneySea — Tokyo (¥7,900–10,900) | 53 | 73 | | | Medium | **Book ahead**; price varies by day |
+| Attraction | USJ + Express Pass — Osaka (¥8,600–11,800 + ¥4,000–8,000) | 85 | 132 | | | High | **Nintendo World** — book Express Pass separately |
+| Attraction | Osaka Aquarium Kaiyukan (¥2,700) | 18 | 18 | | | Medium | One of the world's best; whale shark |
+| Attraction | Osaka Castle (¥1,200) | 8 | 8 | | | Medium | Museum included |
+| Attraction | Hiroshima Peace Memorial Museum (¥200) | 2 | 2 | | | High | Essential; almost free |
+| Attraction | Itsukushima Shrine — Miyajima (¥300) | 2 | 2 | | | High | Floating torii gate |
+| Attraction | Nikko Tosho-gu Shrine (¥1,600) | 11 | 11 | | | High | Most impressive shrine in Japan |
+| Attraction | Nikko combo (Rinnoji ¥1,000 + Futarasan ¥200 + Taiyuin ¥550) | 12 | 12 | | | High | All in same complex |
+| Attraction | Kyoto temples combo (avg ¥500–600 x 6 temples) | 20 | 24 | | | High | Kinkakuji, Kiyomizudera, Ryoanji, Ginkakuji, Sanjusangendo, To-ji |
+| Attraction | Nijo-jo Castle — Kyoto (¥1,300) | 9 | 9 | | | Medium | UNESCO; nightingale floors |
+| Attraction | Todai-ji — Nara (¥800) | 5 | 5 | | | High | Great Buddha; can't miss |
+| Attraction | Shuri Castle — Okinawa (¥400) | 3 | 3 | | | High | Ryukyu Kingdom HQ |
+| Attraction | Nagasaki Atomic Bomb Museum (¥200) | 2 | 2 | | | High | As essential as Hiroshima museum |
+| Attraction | Glover Garden + Dejima — Nagasaki (¥610 + ¥510) | 8 | 8 | | | Medium | Both worth visiting |
+| Attraction | Kenroku-en Garden — Kanazawa (¥320) | 3 | 3 | | | High | Top 3 garden in Japan |
+| Attraction | Kabuki-za single-act — Tokyo (¥1,000–3,000) | 7 | 20 | | | Low | Ginza; no full-show ticket needed |
+| Attraction | Tea ceremony — Kyoto (¥3,000–8,000) | 20 | 53 | | | Low | Many schools offer visitor sessions |
+| Attraction | Kerama Islands ferry + activities — Okinawa | 30 | 60 | | | High | World-class snorkeling |
+| Attraction | Miscellaneous entry fees buffer | 50 | 100 | | | — | Gardens, smaller museums, unexpected entries |
+| **ATTRACTIONS TOTAL** | | **440** | **659** | | | | All prices at ¥150/USD |
 
 ---
 
@@ -170,13 +181,13 @@
 | TAB 2 | Accommodation | 1580 | 2570 | | |
 | TAB 3 | In-Japan Transport | 730 | 950 | | |
 | TAB 4 | Food & Drink | 1220 | 2875 | | |
-| TAB 5 | Attractions & Experiences | 558 | 1113 | | |
+| TAB 5 | Attractions & Experiences | 440 | 659 | | |
 | TAB 6 | Shopping & Souvenirs | 250 | 1550 | | |
 | TAB 7 | Connectivity & Misc | 370 | 760 | | |
 | TAB 8 | Pre-trip One-Time Costs | 700 | 1270 | | |
-| | **Subtotal** | **6783** | **13653** | | |
-| | **Emergency Buffer (10%)** | **678** | **1365** | | |
-| | **GRAND TOTAL** | **7461** | **15018** | | |
+| | **Subtotal** | **6665** | **13199** | | |
+| | **Emergency Buffer (10%)** | **667** | **1320** | | |
+| | **GRAND TOTAL** | **7332** | **14519** | | |
 
 ### Realistic Sweet Spot: ~$8,500–$10,500 USD for a comfortable 28-day trip
 

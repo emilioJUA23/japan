@@ -9,9 +9,10 @@
 ```
 japan/
 ├── CLAUDE.md                  ← You are here; project conventions for Claude
-├── japan_poi.md               ← Points of Interest grouped by city → category
+├── japan_poi.md               ← Points of Interest grouped by city → category (incl. time + entry fees)
 ├── japan_trip_overview.md     ← Route, logistics, transport, key events, useful links
-└── japan_budget.md            ← Full budget tracker; Excel-ready format
+├── japan_budget.md            ← Full budget tracker; Excel-ready format
+└── japan_days_per_city.md     ← Days needed per city with suggested day breakdowns & calendar
 ```
 
 ---
@@ -83,9 +84,10 @@ japan/
 
 | File | Status | Contents |
 |---|---|---|
-| `japan_poi.md` | ✅ Complete (v1) | 13 cities, all categories, 100+ POIs |
+| `japan_poi.md` | ✅ Complete (v2) | 10 cities; POIs with ⏱️ time + 💴 real entry fees |
 | `japan_trip_overview.md` | ✅ Complete (v1) | Route, transport, budget overview, festivals, links |
-| `japan_budget.md` | ✅ Complete (v1) | 9 tabs, full expense breakdown, Excel-ready tables |
+| `japan_budget.md` | ✅ Complete (v2) | 9 tabs; TAB 5 updated with real admission prices |
+| `japan_days_per_city.md` | ✅ Complete (v1) | Days per city, day breakdowns, full 28-day calendar |
 | Itinerary (day-by-day) | 🔲 Not started | Will be `japan_itinerary.md` |
 | Packing list | 🔲 Not started | Will be `japan_packing.md` |
 | Bookings tracker | 🔲 Not started | Will be `japan_bookings.md` |
