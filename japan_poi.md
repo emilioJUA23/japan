@@ -10,7 +10,7 @@
 
 ### 🏙️ Cities — Quick Jump
 
-[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🦑 YOKOHAMA|🦑 Yokohama]] · [[#🏝️ OKINAWA|🏝️ Okinawa]] · [[#🔥 NAGASAKI|🔥 Nagasaki]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
+[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🏝️ OKINAWA|🏝️ Okinawa]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
 
 ---
 
@@ -26,9 +26,7 @@
 | [[#🏙️ OSAKA\|🏙️ Osaka]] | — | ✅ | — | — | — | ✅ | ✅ | ✅ | — |
 | [[#🌊 HIROSHIMA & MIYAJIMA\|🌊 Hiroshima]] | ✅ | ✅ | — | — | ✅ | — | — | — | — |
 | [[#🦌 NIKKO\|🦌 Nikko]] | ✅ | — | — | — | ✅ | — | — | — | — |
-| [[#🦑 YOKOHAMA\|🦑 Yokohama]] | — | ✅ | — | ✅ | — | — | — | ✅ | — |
 | [[#🏝️ OKINAWA\|🏝️ Okinawa]] | ✅ | — | — | — | ✅ | ✅ | — | — | — |
-| [[#🔥 NAGASAKI\|🔥 Nagasaki]] | — | ✅ | — | — | — | — | — | — | — |
 | [[#🍣 KANAZAWA ("Little Kyoto")\|🍣 Kanazawa]] | — | ✅ | — | — | — | — | — | — | — |
 
 ---
@@ -39,7 +37,7 @@
 
 ### 🎌 Manga & Anime Cities Only
 
-[[#🗼 TOKYO|Tokyo]] (Akihabara · Nakano Broadway · Ghibli Museum · teamLab) · [[#🦑 YOKOHAMA|Yokohama]] (Gundam Factory · Cup Noodles Museum)
+[[#🗼 TOKYO|Tokyo]] (Akihabara · Nakano Broadway · Ghibli Museum · teamLab)
 
 ### 🌸 Cherry Blossom Spots
 
@@ -48,7 +46,7 @@
 ---
 
 ## 🗼 TOKYO
-> **Recommended stay: 7 days** (includes Nikko & Yokohama day trips) · See `japan_days_per_city.md`
+> **Recommended stay: 8 days** (includes Nikko day trip) · See `japan_days_per_city.md`
 
 ### ⛩️ Temples & Shrines
 | Name | Neighborhood | ⏱️ Time | 💴 Entry (JPY) | Notes |
@@ -135,7 +133,7 @@
 ---
 
 ## 🏯 KYOTO
-> **Recommended stay: 5 days** (includes Nara day trip) · See `japan_days_per_city.md`
+> **Recommended stay: 6 days** (includes Nara day trip) · See `japan_days_per_city.md`
 
 ### ⛩️ Temples & Shrines
 | Name | District | ⏱️ Time | 💴 Entry (JPY) | Notes |
@@ -283,30 +281,6 @@
 
 ---
 
-## 🦑 YOKOHAMA
-> **Day trip from Tokyo** (30 min by train) · See `japan_days_per_city.md`
-
-### 🏛️ Cultural & Historical
-| Name | District | ⏱️ Time | 💴 Entry (JPY) | Notes |
-|---|---|---|---|---|
-| Sankeien Garden | Honmoku | 1.5–2 hrs | ¥700 | Transplanted historic buildings in garden setting |
-| Yokohama Chinatown | Chukagai | 1–2 hrs | FREE | Japan's largest Chinatown; great street food |
-| Kanagawa Museum of Modern Literature | Nishi | 1 hr | ¥400 | Rotating literary exhibitions |
-
-### 🎌 Manga, Anime & Pop Culture
-| Name | District | ⏱️ Time | 💴 Entry (JPY) | Notes |
-|---|---|---|---|---|
-| Cup Noodles Museum | Minato Mirai | 1.5–2 hrs | ¥500 | Invent your own cup noodle flavor; very fun |
-| Gundam Factory Yokohama | Minato Mirai | 1–2 hrs | ¥1,650 | Life-size moving Gundam (18m); check if still running |
-
-### 🏙️ Modern & Architecture
-| Name | District | ⏱️ Time | 💴 Entry (JPY) | Notes |
-|---|---|---|---|---|
-| Yokohama Landmark Tower | Minato Mirai | 1 hr | ¥1,000 | Sky Garden observatory; harbor views |
-| Osanbashi Pier | Naka | 30 min | FREE | Beautiful wave-form pier & cruise terminal |
-
----
-
 ## 🏝️ OKINAWA
 > **Recommended stay: 4 days** · See `japan_days_per_city.md`
 
@@ -330,21 +304,6 @@
 |---|---|---|---|
 | Makishi Public Market | 1–2 hrs | FREE | Naha's lively food market; sashimi on 2F |
 | Kokusai-dori Street | 1–2 hrs | FREE | Main tourist strip; try soki soba & champuru |
-
----
-
-## 🔥 NAGASAKI
-> **Recommended stay: 2 days** · See `japan_days_per_city.md`
-
-### 🏛️ Cultural & Historical
-| Name | ⏱️ Time | 💴 Entry (JPY) | Notes |
-|---|---|---|---|
-| Nagasaki Atomic Bomb Museum | 1.5–2 hrs | ¥200 | Complements Hiroshima visit; equally powerful |
-| Peace Park | 30–45 min | FREE | Giant peace statue; poignant |
-| Glover Garden | 1–1.5 hrs | ¥610 | Scottish merchant's Meiji-era estate; harbor views |
-| Dutch Slopes (Oranda-zaka) | 30–45 min | FREE | Old foreign settlement cobblestone streets |
-| Dejima Island | 1.5 hrs | ¥510 | Reconstructed Dutch trading post |
-| Sofuku-ji Temple | 30 min | FREE | Ming Dynasty Chinese-style architecture |
 
 ---
 

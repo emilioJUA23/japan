@@ -120,14 +120,13 @@
 | Attraction | Nijo-jo Castle — Kyoto (¥1,300) | 9 | 9 | | | Medium | UNESCO; nightingale floors |
 | Attraction | Todai-ji — Nara (¥800) | 5 | 5 | | | High | Great Buddha; can't miss |
 | Attraction | Shuri Castle — Okinawa (¥400) | 3 | 3 | | | High | Ryukyu Kingdom HQ |
-| Attraction | Nagasaki Atomic Bomb Museum (¥200) | 2 | 2 | | | High | As essential as Hiroshima museum |
-| Attraction | Glover Garden + Dejima — Nagasaki (¥610 + ¥510) | 8 | 8 | | | Medium | Both worth visiting |
+
 | Attraction | Kenroku-en Garden — Kanazawa (¥320) | 3 | 3 | | | High | Top 3 garden in Japan |
 | Attraction | Kabuki-za single-act — Tokyo (¥1,000–3,000) | 7 | 20 | | | Low | Ginza; no full-show ticket needed |
 | Attraction | Tea ceremony — Kyoto (¥3,000–8,000) | 20 | 53 | | | Low | Many schools offer visitor sessions |
 | Attraction | Kerama Islands ferry + activities — Okinawa | 30 | 60 | | | High | World-class snorkeling |
 | Attraction | Miscellaneous entry fees buffer | 50 | 100 | | | — | Gardens, smaller museums, unexpected entries |
-| **ATTRACTIONS TOTAL** | | **440** | **659** | | | | All prices at ¥150/USD |
+| **ATTRACTIONS TOTAL** | | **430** | **649** | | | | All prices at ¥150/USD |
 
 ---
 
@@ -181,13 +180,13 @@
 | TAB 2 | Accommodation | 1580 | 2570 | | |
 | TAB 3 | In-Japan Transport | 730 | 950 | | |
 | TAB 4 | Food & Drink | 1220 | 2875 | | |
-| TAB 5 | Attractions & Experiences | 440 | 659 | | |
+| TAB 5 | Attractions & Experiences | 430 | 649 | | |
 | TAB 6 | Shopping & Souvenirs | 250 | 1550 | | |
 | TAB 7 | Connectivity & Misc | 370 | 760 | | |
 | TAB 8 | Pre-trip One-Time Costs | 700 | 1270 | | |
-| | **Subtotal** | **6665** | **13199** | | |
-| | **Emergency Buffer (10%)** | **667** | **1320** | | |
-| | **GRAND TOTAL** | **7332** | **14519** | | |
+| | **Subtotal** | **6655** | **13189** | | |
+| | **Emergency Buffer (10%)** | **666** | **1319** | | |
+| | **GRAND TOTAL** | **7321** | **14508** | | |
 
 ### Realistic Sweet Spot: ~$8,500–$10,500 USD for a comfortable 28-day trip
 

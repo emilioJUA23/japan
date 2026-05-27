@@ -9,38 +9,37 @@
 
 | City | Type | Days | Cumulative | Notes |
 |---|---|---|---|---|
-| Tokyo | Base | 7 | 7 | Includes Nikko & Yokohama day trips |
+| Tokyo | Base | 8 | 8 | Includes Nikko day trip |
 | Nikko | Day trip (from Tokyo) | 1 | — | Counted inside Tokyo days |
-| Yokohama | Day trip (from Tokyo) | 1 | — | Counted inside Tokyo days |
-| Kyoto | Base | 5 | 12 | Includes Nara day trip |
+| Kyoto | Base | 6 | 14 | Includes Nara day trip |
 | Nara | Day trip (from Kyoto) | 1 | — | Counted inside Kyoto days |
-| Osaka | Base | 3 | 15 | |
-| Hiroshima & Miyajima | Base | 2 | 17 | |
-| Nagasaki | Base | 2 | 19 | |
+| Osaka | Base | 3 | 17 | |
+| Hiroshima & Miyajima | Base | 2 | 19 | |
 | Kanazawa | Base | 2 | 21 | |
-| Okinawa | Base | 4 | 25 | Fly from Osaka or Tokyo |
+| Okinawa | Base | 4 | 25 | Fly from Kanazawa or Osaka |
 | Tokyo (final buffer) | Buffer | 3 | 28 | Shopping, rest, flight prep |
 | **TOTAL** | | **28** | **28** | |
 
 ---
 
-## 🗼 TOKYO — 7 Days
+## 🗼 TOKYO — 8 Days
 
-> Includes 1 day trip to Nikko + 1 day trip to Yokohama (5 days in the city itself)
+> Includes 1 day trip to Nikko (7 days in the city itself)
 
-### Why 7 days
-Tokyo is enormous. Even with a tight itinerary, the sheer size of the city means each neighborhood is a half or full day on its own. With Ghibli Museum, Akihabara, teamLab, DisneySea, and the main sights, 7 days is a comfortable pace.
+### Why 8 days
+Tokyo is enormous. Even with a tight itinerary, the sheer size of the city means each neighborhood is a half or full day on its own. With Ghibli Museum, Akihabara, teamLab, and all the main sights, 8 days allows a genuinely relaxed pace plus a proper deep-dive into old-town neighborhoods.
 
 ### Suggested Day Breakdown
-| Day | Focus | Key POIs |
-|---|---|---|
-| Day 1 | East Tokyo (temples + old city) | Senso-ji, Kaminarimon, Nakamise, Ueno Park, Ameyoko Market |
-| Day 2 | Anime & Pop Culture | Akihabara, Nakano Broadway, Pokemon Center |
-| Day 3 | West Tokyo (parks + shrines) | Meiji Jingu, Yoyogi Park, Harajuku, Shibuya Crossing, Shibuya Sky |
-| Day 4 | Ghibli + teamLab | Ghibli Museum (morning), teamLab Planets or Borderless (evening) |
-| Day 5 | Day trip → Nikko | Tosho-gu, Rinnoji, Kegon Falls, Lake Chuzenji |
-| Day 6 | Day trip → Yokohama | Chinatown, Cup Noodles Museum, Sankeien Garden, Landmark Tower |
-| Day 7 | Modern Tokyo + Judo | Kodokan Judo Institute, Tokyo Skytree, Odaiba, Omoide Yokocho |
+| Day   | Focus                           | Key POIs                                                              |
+| ----- | ------------------------------- | --------------------------------------------------------------------- |
+| Day 1 | East Tokyo (temples + old city) | Senso-ji, Kaminarimon, Nakamise, Ueno Park, Ameyoko Market            |
+| Day 2 | Anime & Pop Culture             | Akihabara, Nakano Broadway, Pokemon Center                            |
+| Day 3 | West Tokyo (parks + shrines)    | Meiji Jingu, Yoyogi Park, Harajuku, Shibuya Crossing, Shibuya Sky     |
+| Day 4 | Ghibli + teamLab                | Ghibli Museum (morning), teamLab Planets or Borderless (evening)      |
+| Day 5 | Day trip → Nikko                | Tosho-gu, Rinnoji, Kegon Falls, Lake Chuzenji                         |
+| Day 6 | Modern Tokyo + Judo             | Kodokan Judo Institute, Tokyo Skytree, Odaiba, Omoide Yokocho         |
+| Day 7 | Old-town neighborhoods          | Yanaka shitamachi, Shimokitazawa vintage shops, Koenji                |
+| Day 8 | Flexible                        | Roppongi (Mori Art Museum), Ginza, extra shopping, or rest            |
 
 ### Time budget check
 | POI | Est. Time |
@@ -55,19 +54,19 @@ Tokyo is enormous. Even with a tight itinerary, the sheer size of the city means
 | teamLab Planets | 1.5–2 hrs |
 | Kodokan Judo Institute | 1–2 hrs |
 | Tokyo Skytree | 1.5–2 hrs |
+| Yanaka + Shimokitazawa stroll | 3–4 hrs |
 | Nikko (full day trip) | 8–9 hrs incl. transit |
-| Yokohama (full day trip) | 8 hrs incl. transit |
 
-**Total across 7 days: ~40–45 hrs of POI time → comfortable at ~6–7 hrs/day**
+**Total across 8 days: ~46–52 hrs of POI time → comfortable at ~6–7 hrs/day**
 
 ---
 
-## 🏯 KYOTO — 5 Days
+## 🏯 KYOTO — 6 Days
 
-> Includes 1 day trip to Nara (4 days in Kyoto itself)
+> Includes 1 day trip to Nara (5 days in Kyoto itself)
 
-### Why 5 days
-Kyoto has the highest density of UNESCO World Heritage sites in Japan. Fushimi Inari alone takes a half day. The city rewards a slow pace — rushing it is one of the most common Japan travel regrets.
+### Why 6 days
+Kyoto has the highest density of UNESCO World Heritage sites in Japan. Fushimi Inari alone takes a half day. The city rewards a slow pace — rushing it is one of the most common Japan travel regrets. A 6th day allows a proper deep-dive into hidden sub-temples, mountain villages, and a leisurely Pontocho evening.
 
 ### Suggested Day Breakdown
 | Day | Focus | Key POIs |
@@ -77,6 +76,7 @@ Kyoto has the highest density of UNESCO World Heritage sites in Japan. Fushimi I
 | Day 3 | Northern Kyoto | Kinkaku-ji, Ryoan-ji, Daitoku-ji, Nijo-jo Castle |
 | Day 4 | Arashiyama + Gion | Bamboo Grove (dawn), Sagano Train, Tenryu-ji, Gion at dusk |
 | Day 5 | Day trip → Nara | Nara Park, Todai-ji, Kasuga Taisha, Kofuku-ji |
+| Day 6 | Hidden Kyoto + mountain villages | Kibune & Kurama (half-day hike), Pontocho dinner, Toei Studio Park (optional) |
 
 ### Time budget check
 | POI | Est. Time |
@@ -88,9 +88,10 @@ Kyoto has the highest density of UNESCO World Heritage sites in Japan. Fushimi I
 | Arashiyama Bamboo Grove | 1 hr |
 | Nijo-jo Castle | 1.5–2 hrs |
 | Gion evening stroll | 1.5–2 hrs |
+| Kibune & Kurama half-day | 3–4 hrs |
 | Nara full day trip | 6–7 hrs incl. transit |
 
-**Total across 5 days: ~30–35 hrs of POI time → ~6–7 hrs/day**
+**Total across 6 days: ~36–42 hrs of POI time → ~6–7 hrs/day**
 
 ---
 
@@ -183,24 +184,6 @@ Nikko's shrines are clustered in one area at the base of the mountains. A full d
 
 ---
 
-## 🦑 YOKOHAMA — Day Trip (from Tokyo)
-
-### Why 1 day
-Only 30 minutes from central Tokyo; a relaxed day covers Chinatown, Cup Noodles Museum, Sankeien Garden, and the waterfront with time to spare.
-
-### Suggested Schedule
-| Time | Activity |
-|---|---|
-| 9:00 | Depart Tokyo (Shinjuku or Shibuya → Yokohama, 30 min) |
-| 9:45 | Sankeien Garden (peaceful morning visit) |
-| 11:30 | Yokohama Chinatown (lunch + explore) |
-| 13:30 | Cup Noodles Museum (invent your own flavor) |
-| 15:00 | Osanbashi Pier + waterfront walk |
-| 16:00 | Yokohama Landmark Tower observatory |
-| 17:30 | Return to Tokyo |
-
----
-
 ## 🏝️ OKINAWA — 4 Days
 
 ### Why 4 days
@@ -224,19 +207,6 @@ Okinawa is completely different from mainland Japan — distinct culture, food, 
 | Cape Manzamo | 45 min |
 | Kerama Islands (day trip) | 6–8 hrs |
 | Yanbaru NP | 4–5 hrs |
-
----
-
-## 🔥 NAGASAKI — 2 Days
-
-### Why 2 days
-Nagasaki's atomic bomb sites need at least a half day of respectful, unhurried time. The historical European quarter (Glover, Dejima, Dutch Slopes) fills a solid second day.
-
-### Suggested Day Breakdown
-| Day | Focus | Key POIs |
-|---|---|---|
-| Day 1 | Atomic Bomb history | Atomic Bomb Museum, Peace Park, Urakami Cathedral, bombing hypocenter |
-| Day 2 | Historical Nagasaki | Glover Garden, Dutch Slopes, Dejima Island, Sofuku-ji Temple |
 
 ---
 
@@ -267,37 +237,35 @@ Often called "Little Kyoto," Kanazawa is compact but rich. Two days lets you cov
 ## 📐 Full 28-Day Calendar Grid
 
 ```
-WEEK 1 (Days 1–7): TOKYO
+WEEK 1 (Days 1–8): TOKYO
   D1  East Tokyo — Asakusa, Ueno
   D2  Akihabara / Pop Culture
   D3  West Tokyo — Harajuku, Shibuya
   D4  Ghibli Museum + teamLab
   D5  Day trip: NIKKO
-  D6  Day trip: YOKOHAMA
-  D7  Modern Tokyo — Kodokan, Skytree, Odaiba
+  D6  Modern Tokyo — Kodokan, Skytree, Odaiba
+  D7  Yanaka shitamachi + Shimokitazawa vintage shopping
+  D8  Flexible — Roppongi / Ginza / extra rest
 
-WEEK 2 (Days 8–12): KYOTO
-  D8  Travel Tokyo→Kyoto (Shinkansen ~2h15m) + Fushimi Inari
-  D9  Higashiyama temples
-  D10 Northern Kyoto — Kinkakuji, Ryoanji, Nijo-jo
-  D11 Arashiyama + Gion evening
-  D12 Day trip: NARA
+WEEK 2 (Days 9–14): KYOTO
+  D9  Travel Tokyo→Kyoto (Shinkansen ~2h15m) + Fushimi Inari
+  D10 Higashiyama temples
+  D11 Northern Kyoto — Kinkakuji, Ryoanji, Nijo-jo
+  D12 Arashiyama + Gion evening
+  D13 Day trip: NARA
+  D14 Hidden Kyoto — Kibune & Kurama, Pontocho dinner
 
-DAYS 13–15: OSAKA
-  D13 Travel Kyoto→Osaka (15 min) + Dotonbori + Kuromon
-  D14 USJ — full day
-  D15 Osaka Castle + Aquarium + Umeda
+DAYS 15–17: OSAKA
+  D15 Travel Kyoto→Osaka (15 min) + Dotonbori + Kuromon
+  D16 USJ — full day
+  D17 Osaka Castle + Aquarium + Umeda
 
-DAYS 16–17: HIROSHIMA & MIYAJIMA
-  D16 Travel Osaka→Hiroshima (Shinkansen 1h30m) + Peace Park + Museum
-  D17 Miyajima Island full day
-
-DAYS 18–19: NAGASAKI
-  D18 Travel Hiroshima→Nagasaki (2h30m) + Atomic Bomb Museum + Peace Park
-  D19 Glover Garden + Dejima + Dutch Slopes
+DAYS 18–19: HIROSHIMA & MIYAJIMA
+  D18 Travel Osaka→Hiroshima (Shinkansen 1h30m) + Peace Park + Museum
+  D19 Miyajima Island full day
 
 DAYS 20–21: KANAZAWA
-  D20 Travel Nagasaki→Kanazawa (fly or Shinkansen via Osaka, ~4–5h) + Kenroku-en
+  D20 Travel Hiroshima→Kanazawa (Shinkansen via Osaka, ~3h) + Kenroku-en
   D21 21st Century Museum + Higashi Chaya + Omicho Market
 
 DAYS 22–25: OKINAWA

@@ -289,23 +289,6 @@
 
 ---
 
-## 🦑 YOKOHAMA
-
-**Yokohama Day Trip (All Attractions)**
-- 🎬 [Yokohama in 1 Day — Cup Noodle Factory, Chinatown, Cosmo World](https://www.youtube.com/watch?v=q9yZF05-h6E)
-- 🎬 [Spending the Day in Yokohama — Gundam Factory, Cup Noodles, Chinatown](https://www.youtube.com/watch?v=mJqVqxij064)
-- 🎬 [Days in Japan: Yokohama — Cup Noodle Museum + Gundam + Yakitori](https://www.youtube.com/watch?v=hMeygPazZUs)
-- 🎬 [Tokyo to Yokohama Day Trip](https://www.youtube.com/watch?v=ylOfsnEqX2M)
-- 🎬 [Japan Trip — Yokohama Day Trip + Cup Noodles Museum + Chinatown](https://www.youtube.com/watch?v=XG-dLgHQJ1c)
-- 🎬 [Yokohama Day Trip: Chinatown, Cup Noodle Museum & Gundam Factory](https://www.youtube.com/watch?v=ek0LCLu3nVs)
-- 📖 [Perfect Yokohama 1-day itinerary — The Navigatio](https://thenavigatio.com/yokohama-day-trip-itinerary/)
-
-**Cup Noodles Museum**
-- 🌐 [Official site — admission & hours](https://www.cupnoodles-museum.jp/en/yokohama/guide/admission/)
-
-**Yokohama Landmark Tower**
-- 📖 [Sky Garden observatory guide — Skyticket](https://skyticket.com/guide/52167)
-
 ---
 
 ## 🏝️ OKINAWA
@@ -326,27 +309,6 @@
 
 **Nakagusuku Castle Ruins**
 - 📖 [Nakagusuku Ruins guide — Japan Guide](https://www.japan-guide.com/e/e7115.html)
-
----
-
-## 🔥 NAGASAKI
-
-**Nagasaki Overview**
-- 🎬 [Tour of Nagasaki — Part 1: Hypocenter Park & Atomic Bomb Museum](https://www.youtube.com/watch?v=MpJdWp0WiJo)
-- 🎬 [Atomic Bomb Museum & Peace Park Nagasaki, Japan](https://www.youtube.com/watch?v=vLyWH8HI0Ts)
-- 🎬 [2025 Japan — Nagasaki Dejima and Iojima](https://www.youtube.com/watch?v=c9YQQ4TmE9E)
-- 📖 [2-day Nagasaki itinerary — Nerd Nomads](https://nerdnomads.com/nagasaki-itinerary)
-- 📖 [Nagasaki guide — Japan Cheapo](https://japancheapo.com/locations/nagasaki/)
-
-**Atomic Bomb Museum & Peace Park**
-- 📖 [Peace Park guide — Japan Guide](https://www.japan-guide.com/e/e4400.html)
-- 📖 [Complete Nagasaki Bomb Museum + Peace Park guide — GoWithGuide](https://gowithguide.com/blog/nagasaki-atomic-bomb-museum-and-peace-park-complete-guide-3783)
-- 🌐 [Official Nagasaki Peace website](https://nagasakipeace.jp/en/)
-
-**Glover Garden, Dejima & Dutch Slopes**
-- 📖 [Glover Garden + Atomic Bomb Museum + Dejima in one article — Wanderaime](https://wanderaime.com/2025/05/23/glover-garden-atomic-bomb-museum-dejima-nagasaki/)
-- 📖 [Dejima complete visitor guide — Japan Uncharted](https://japanuncharted.com/nagasaki/history/nagasaki-dejima-visitor-guide)
-- 📖 [Nagasaki Peace Park guide — Japan Guide](https://www.japan-guide.com/e/e4400.html)
 
 ---
 

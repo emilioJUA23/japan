@@ -22,7 +22,7 @@
 
 ```
 Week 1 → TOKYO (base)
-         └─ Day trips: Nikko, Yokohama
+         └─ Day trip: Nikko
 
 Week 2 → KYOTO (base)
          └─ Day trips: Nara, Osaka
