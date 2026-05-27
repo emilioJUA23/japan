@@ -14,7 +14,8 @@ japan/
 ├── japan_budget.md            ← Full budget tracker; Excel-ready format
 ├── japan_days_per_city.md     ← Days needed per city with suggested day breakdowns & calendar
 ├── japan_references.md        ← YouTube videos & articles for every POI (for research & decisions)
-└── japan_todo.md              ← Master checklist: reservations, flights, hotels, vaccines, purchases
+├── japan_todo.md              ← Master checklist: reservations, flights, hotels, vaccines, purchases
+└── japan_itinerary.md         ← Full day-by-day itinerary: flights, transport, activities, meals
 ```
 
 ---
@@ -92,7 +93,7 @@ japan/
 | `japan_days_per_city.md` | ✅ Complete (v2) | Tokyo 8d, Kyoto 6d; 28-day calendar; Nagasaki removed |
 | `japan_references.md` | ✅ Complete (v2) | Videos & articles for all active POIs (Nagasaki removed) |
 | `japan_todo.md` | ✅ Complete (v1) | Master checklist: reservations, flights, hotels, vaccines, purchases |
-| Itinerary (day-by-day) | 🔲 Not started | Will be `japan_itinerary.md` |
+| `japan_itinerary.md` | ✅ Complete (v1) | Day 0–29: full day-by-day with transport, activities, meals, costs |
 | Packing list | 🔲 Not started | Will be `japan_packing.md` |
 | Bookings tracker | 🔲 Not started | Will be `japan_bookings.md` |
 | Flights (booked) | 🔲 Not started | Fill into `japan_budget.md` TAB 1 when purchased |
