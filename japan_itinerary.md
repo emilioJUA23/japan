@@ -22,12 +22,12 @@
 **🏠 Sleep:** On the plane
 
 ### Travel Plan
-| Leg | Route | Time | Notes |
-|---|---|---|---|
-| GUA → Hub | GUA → LAX, DFW, or IAH | ~5h | Or GUA → MEX (Mexico City) if routing via ANA/JAL |
-| Layover | US hub or MEX | 2–4h | Clear US Customs if using US hub (need valid US visa!) |
-| Hub → Tokyo | LAX/DFW/IAH/MEX → NRT or HND | 11–14h | Depart afternoon/evening hub-time |
-| **Total travel** | Door to door | **~22–26h** | You cross the date line and gain a day |
+| Leg              | Route                        | Time        | Notes                                                  |
+| ---------------- | ---------------------------- | ----------- | ------------------------------------------------------ |
+| GUA → Hub        | GUA → LAX, DFW, or IAH       | ~5h         | Or GUA → MEX (Mexico City) if routing via ANA/JAL      |
+| Layover          | US hub or MEX                | 2–4h        | Clear US Customs if using US hub (need valid US visa!) |
+| Hub → Tokyo      | LAX/DFW/IAH/MEX → NRT or HND | 11–14h      | Depart afternoon/evening hub-time                      |
+| **Total travel** | Door to door                 | **~22–26h** | You cross the date line and gain a day                 |
 
 ### Before You Leave Home
 - [ ] Check in online 24h before departure
@@ -56,11 +56,11 @@
 6. **ATM:** 7-Eleven ATMs in the airport accept foreign cards — withdraw ¥20,000–¥30,000 cash.
 
 ### Airport → Hotel
-| Option | Route | Time | Cost |
-|---|---|---|---|
-| **Narita Express (N'EX)** ✅ | NRT → Shinjuku/Shibuya (direct) | ~80 min | **FREE with JR Pass** |
-| Limousine Bus | NRT → major Tokyo hotels | ~90–120 min | ¥3,200 (~$21) |
-| Taxi | NRT → central Tokyo | ~75–90 min | ¥20,000+ (~$130) — avoid |
+| Option                      | Route                           | Time        | Cost                     |
+| --------------------------- | ------------------------------- | ----------- | ------------------------ |
+| **Narita Express (N'EX)** ✅ | NRT → Shinjuku/Shibuya (direct) | ~80 min     | **FREE with JR Pass**    |
+| Limousine Bus               | NRT → major Tokyo hotels        | ~90–120 min | ¥3,200 (~$21)            |
+| Taxi                        | NRT → central Tokyo             | ~75–90 min  | ¥20,000+ (~$130) — avoid |
 
 > **From HND (Haneda):** Tokyo Monorail → Hamamatsucho → JR (JR Pass covers); or Keikyu Line (Suica).
 > HND is 30–40 min closer to the city than NRT.
@@ -84,18 +84,18 @@
 ### Morning — Asakusa (Arrive before 8am)
 > Senso-ji is magical before 9am. Crowds arrive hard by 10am.
 
-| Time | Activity | Getting There | Cost |
-|---|---|---|---|
-| 7:00 | **Senso-ji Temple** — oldest temple in Tokyo. Walk through Kaminarimon gate, Nakamise arcade (vendors still setting up = peaceful), main hall. | Subway to Asakusa Station (Ginza or Toei Asakusa line, Suica) | FREE |
-| 8:30 | **Nakamise Shopping Street** — souvenirs, ningyo-yaki rice cakes, senbei crackers. Buy a few things while still quiet. | Walk | Snacks ~$5 |
-| 9:00 | **Asakusa neighborhood stroll** — explore Hoppy Street, Kappabashi (kitchen supply district, 10 min walk), old shotengai covered market | Walk | FREE |
+| Time | Activity                                                                                                                                       | Getting There                                                 | Cost       |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- |
+| 7:00 | **Senso-ji Temple** — oldest temple in Tokyo. Walk through Kaminarimon gate, Nakamise arcade (vendors still setting up = peaceful), main hall. | Subway to Asakusa Station (Ginza or Toei Asakusa line, Suica) | FREE       |
+| 8:30 | **Nakamise Shopping Street** — souvenirs, ningyo-yaki rice cakes, senbei crackers. Buy a few things while still quiet.                         | Walk                                                          | Snacks ~$5 |
+| 9:00 | **Asakusa neighborhood stroll** — explore Hoppy Street, Kappabashi (kitchen supply district, 10 min walk), old shotengai covered market        | Walk                                                          | FREE       |
 
 ### Midday — Ueno Area
-| Time | Activity | Getting There | Cost |
-|---|---|---|---|
-| 10:30 | **Ueno Park** — stroll through the park; cherry blossom trees line the main path. In peak bloom this will be one of the most beautiful walks of the trip. | 10-min walk or JR Yamanote to Ueno (JR Pass) | FREE |
-| 11:30 | **Ameyoko Market** — lively outdoor market along the old train tracks. Street food, fresh seafood stalls, dried goods, cheap clothes. Buy lunch here. | Walk from Ueno Station | ~$5–8 lunch |
-| 12:30 | **Tokyo National Museum** (optional — if you have energy) — largest collection of Japanese art and antiquities in the world | Walk from Ueno | ¥1,000 (~$7) |
+| Time  | Activity                                                                                                                                                  | Getting There                                | Cost         |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------ |
+| 10:30 | **Ueno Park** — stroll through the park; cherry blossom trees line the main path. In peak bloom this will be one of the most beautiful walks of the trip. | 10-min walk or JR Yamanote to Ueno (JR Pass) | FREE         |
+| 11:30 | **Ameyoko Market** — lively outdoor market along the old train tracks. Street food, fresh seafood stalls, dried goods, cheap clothes. Buy lunch here.     | Walk from Ueno Station                       | ~$5–8 lunch  |
+| 12:30 | **Tokyo National Museum** (optional — if you have energy) — largest collection of Japanese art and antiquities in the world                               | Walk from Ueno                               | ¥1,000 (~$7) |
 
 ### Afternoon — Quick Akihabara Preview
 | Time | Activity | Getting There | Cost |
