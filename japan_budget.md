@@ -192,5 +192,111 @@
 
 ---
 
+---
+
+## TAB 10 — MONTHLY SAVINGS PLAN
+
+> **Savings window:** June 2026 → February 2027 = **9 months** before departure (~March 25, 2027)
+> Departure costs and trip cash must all be ready by the end of February.
+
+---
+
+### 📊 Three Savings Scenarios
+
+| Plan | Total Budget | Monthly Savings | What You Get |
+|---|---|---|---|
+| 🟢 Budget | 8000 | 900 | Economy flights, budget hotels (¥6,000–8,000/night), minimal shopping, konbini-heavy eating |
+| 🟡 Comfortable ← Recommended | 10000 | 1100 | Mid-range flights (~$1,700), comfortable hotels, all key attractions, moderate shopping ($750) |
+| 🔴 Full Send | 14000 | 1550 | Premium economy, best hotels, ryokan night in Kyoto, full shopping budget, omakase dinners |
+
+> **Why $1,100 not $1,000?** 9 months × $1,000 = $9,000 — leaves you tight in October when flights and hotels land back to back. $1,100 × 9 = $9,900 gives a comfortable $800 buffer throughout and ~$4,800 cash to bring to Japan.
+
+---
+
+### 🗓️ Month-by-Month Payment Calendar — Recommended Plan ($1,100/month)
+
+| Month | Save | Running Total | Pay For | Amount | Balance After | ⚠️ Must Have |
+|---|---|---|---|---|---|---|
+| Jun 2026 | 1100 | 1100 | — | — | 1100 | 0 |
+| Jul 2026 | 1100 | 2200 | — | — | 2200 | 0 |
+| Aug 2026 | 1100 | 3300 | — | — | 3300 | 0 |
+| **Sep 2026** | 1100 | 4400 | All hotels (all cities, all nights) | 2000 | 2400 | 2000 |
+| **Oct 2026** | 1100 | 3500 | Round-trip flights GUA→NRT/HND | 1700 | 1800 | 1700 |
+| **Nov 2026** | 1100 | 2900 | JR Pass 30-day + USJ tickets + DisneySea ticket | 800 | 2100 | 800 |
+| **Dec 2026** | 1100 | 3200 | Travel insurance + Ghibli + teamLab + Shibuya Sky | 350 | 2850 | 350 |
+| **Jan 2027** | 1100 | 3950 | Pocket WiFi reservation + domestic flights (2x) | 240 | 3710 | 240 |
+| Feb 2027 | 1100 | 4810 | — | — | **4810** | 0 |
+| **Mar 2027** | ✈️ DEPART | | Japan trip spending (see breakdown below) | ~4000 | ~810 surplus | |
+
+**Total saved:** 9900 | **Total pre-paid before departure:** 5090 | **Cash brought to Japan:** ~4810
+
+---
+
+### 💴 What the Japan Cash Covers (the ~$4,810 you bring)
+
+| Category | Est. Amount | Notes |
+|---|---|---|
+| Food & drink (30 days) | 2050 | Mix of konbini, ramen, mid-range dinners, 2–3 special meals |
+| Local transport — non-JR Pass | 200 | Suica metro rides, Nikko Tobu train, ferries, occasional taxi |
+| Remaining attraction entries | 300 | Temples, gardens, museums paid at the door |
+| Shopping & souvenirs | 750 | Akihabara, Okinawa gear, omiyage for family |
+| Misc (laundry, pharmacy, emergencies) | 350 | Coin laundromats, Matsumoto Kiyoshi, unexpected costs |
+| Initial JPY cash to carry | 200 | Exchange at airport or before leaving; keep ¥20,000 on hand always |
+| **Subtotal** | **3850** | |
+| **Buffer remaining** | **960** | ~10% safety margin for the unexpected |
+
+---
+
+### 📋 What's Pre-Paid Before You Board (the $5,090 committed before departure)
+
+| Item | When to Pay | Amount | Covered By |
+|---|---|---|---|
+| All hotels (8 cities, 28 nights) | Sep 2026 | 2000 | Monthly savings |
+| Round-trip flights GUA → NRT/HND | Oct–Nov 2026 | 1700 | Monthly savings |
+| JR Pass 30-day | Nov 2026 | 635 | Monthly savings |
+| USJ day ticket + Express Pass | Nov 2026 | 108 | Monthly savings |
+| Tokyo DisneySea ticket | Nov 2026 | 63 | Monthly savings |
+| Travel insurance (30 days) | Dec 2026 | 140 | Monthly savings |
+| Ghibli Museum ticket | Dec 2026–Jan 2027 | 7 | Monthly savings |
+| teamLab ticket (Planets or Borderless) | Jan 2027 | 30 | Monthly savings |
+| Shibuya Sky | Jan 2027 | 18 | Monthly savings |
+| Pocket WiFi rental (reserved online) | Feb 2027 | 80 | Monthly savings |
+| Domestic flights: Kanazawa→Naha + Naha→Tokyo | Feb 2027 | 160 | Monthly savings |
+| Vaccines, adapter, pre-trip gear | Jun–Sep 2026 | 149 | Monthly savings |
+| **TOTAL PRE-PAID** | | **5090** | |
+
+---
+
+### ⚠️ Critical Balance Checkpoints
+
+These are the months where your balance must meet a minimum — if you fall short, you can't book on time.
+
+| Checkpoint | Month | Min Balance Needed | Why |
+|---|---|---|---|
+| Hotel booking window | **Sep 2026** | $2,000 | Cherry blossom hotels fill up — book all 8 cities at once |
+| Flight booking window | **Oct 2026** | $1,700 | Prices climb fast after Nov; best deals are Oct |
+| JR Pass + advance tickets | **Nov 2026** | $800 | JR Pass must be purchased outside Japan; USJ/Disney sell out |
+| Insurance + must-do tickets | **Dec 2026** | $350 | Ghibli drops ~3 months before travel = Dec/Jan |
+| Final prep items | **Jan 2027** | $240 | WiFi + domestic flights finalized |
+| Japan trip cash | **Mar 2027** | $3,500 minimum | Food + transport + basic spending for 28 days |
+
+---
+
+### 🟢 Budget Plan Calendar ($900/month → $8,100 total)
+
+| Month | Save | Running Total | Pay | Amount | Balance After |
+|---|---|---|---|---|---|
+| Jun–Aug 2026 | 900/mo | 2700 | — | — | 2700 |
+| Sep 2026 | 900 | 3600 | Hotels (budget, low estimate) | 1580 | 2020 |
+| Oct 2026 | 900 | 2920 | Flights (economy, best deal) | 1375 | 1545 |
+| Nov 2026 | 900 | 2445 | JR Pass + USJ + DisneySea | 800 | 1645 |
+| Dec 2026 | 900 | 2545 | Insurance + tickets | 350 | 2195 |
+| Jan 2027 | 900 | 3095 | WiFi + domestic flights | 240 | 2855 |
+| Feb 2027 | 900 | 3755 | | | **3755 for Japan** |
+
+> Budget plan needs strict discipline on shopping and dining. Lean heavily on konbini (¥800–1,500/meal), set a ¥20,000 hard limit for shopping, and skip premium activities like omakase dinners.
+
+---
+
 *See `japan_poi.md` for POI list | See `japan_trip_overview.md` for route & logistics | See `CLAUDE.md` for how this trip is being built*
-*Last updated: 2026-05-25*
+*Last updated: 2026-05-27*
