@@ -42,6 +42,7 @@
 | Kayak | — | 1095 | https://www.kayak.com/flight-routes/Guatemala-City-La-Aurora-GUA/Tokyo-TYO |
 | Cheapflights | 587 | — | https://www.cheapflights.com/flights-to-japan/guatemala/ |
 | Kiwi.com | 529 | — | https://www.kiwi.com/en/cheap-flights/guatemala-city-guatemala/tokyo-japan/ |
+| Current check (2026-08-23) | — | 1250 | Economy RT, cherry blossom season — within budget target |
 
 > Note: above are off-peak baseline prices. Cherry blossom season adds ~25–40% premium.
 
