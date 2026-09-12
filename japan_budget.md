@@ -43,6 +43,7 @@
 | Cheapflights | 587 | — | https://www.cheapflights.com/flights-to-japan/guatemala/ |
 | Kiwi.com | 529 | — | https://www.kiwi.com/en/cheap-flights/guatemala-city-guatemala/tokyo-japan/ |
 | Current check (2026-08-23) | — | 1250 | Economy RT, cherry blossom season — within budget target |
+| Current check (2026-09-12) | — | 1237 | Economy RT, down $13 vs last check — stable, still within budget target |
 
 > Note: above are off-peak baseline prices. Cherry blossom season adds ~25–40% premium.
 
@@ -300,4 +301,4 @@ These are the months where your balance must meet a minimum — if you fall shor
 ---
 
 *See `japan_poi.md` for POI list | See `japan_trip_overview.md` for route & logistics | See `CLAUDE.md` for how this trip is being built*
-*Last updated: 2026-05-27*
+*Last updated: 2026-09-12*
