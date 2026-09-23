@@ -10,7 +10,7 @@
 
 ### 🏙️ Cities — Quick Jump
 
-[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🏝️ OKINAWA|🏝️ Okinawa]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
+[[#🗼 TOKYO|🗼 Tokyo]] · [[#🏯 KYOTO|🏯 Kyoto]] · [[#🦌 NARA|🦌 Nara]] · [[#🏙️ OSAKA|🏙️ Osaka]] · [[#🌊 HIROSHIMA & MIYAJIMA|🌊 Hiroshima & Miyajima]] · [[#🦌 NIKKO|🦌 Nikko]] · [[#🏂 NAGANO & HAKUBA|🏂 Nagano & Hakuba]] · [[#🍣 KANAZAWA ("Little Kyoto")|🍣 Kanazawa]]
 
 ---
 
@@ -26,27 +26,27 @@
 | [[#🏙️ OSAKA\|🏙️ Osaka]] | — | ✅ | — | — | — | ✅ | ✅ | ✅ | — |
 | [[#🌊 HIROSHIMA & MIYAJIMA\|🌊 Hiroshima]] | ✅ | ✅ | — | — | ✅ | — | — | — | — |
 | [[#🦌 NIKKO\|🦌 Nikko]] | ✅ | — | — | — | ✅ | — | — | — | — |
-| [[#🏝️ OKINAWA\|🏝️ Okinawa]] | ✅ | — | — | — | ✅ | ✅ | — | — | — |
-| [[#🍣 KANAZAWA ("Little Kyoto")\|🍣 Kanazawa]] | — | ✅ | — | — | — | — | — | — | — |
+| [[#🏂 NAGANO & HAKUBA\|🏂 Nagano & Hakuba]] | ✅ | — | — | — | ✅ | ✅ | ✅ | — | ✅ |
+| [[#🍣 KANAZAWA ("Little Kyoto")\|🍣 Kanazawa]] | — | ✅ | — | — | — | ✅ | — | — | — |
 
 ---
 
 ### 🥋 Martial Arts Cities Only
 
-[[#🗼 TOKYO|Tokyo]] (Kodokan Judo Institute · Nippon Budokan) · [[#🏯 KYOTO|Kyoto]] (Butokuden · Kyoto Budo Center)
+[[#🗼 TOKYO|Tokyo]] (Kodokan Judo Institute · Nippon Budokan · **Ryogoku Kokugikan — January Grand Sumo**) · [[#🏯 KYOTO|Kyoto]] (Butokuden · Kyoto Budo Center)
 
 ### 🎌 Manga & Anime Cities Only
 
 [[#🗼 TOKYO|Tokyo]] (Akihabara · Nakano Broadway · Ghibli Museum · teamLab)
 
-### 🌸 Cherry Blossom Spots
+### ❄️ Winter Highlights
 
-[[#🗼 TOKYO|Tokyo]] (Shinjuku Gyoen · Ueno Park) · [[#🏯 KYOTO|Kyoto]] (Philosopher's Path · Maruyama Park) · [[#🦌 NARA|Nara]] (Nara Park) · [[#🦌 NIKKO|Nikko]] (Irohazaka forest)
+[[#🏂 NAGANO & HAKUBA|Hakuba]] (snowboarding) · [[#🏂 NAGANO & HAKUBA|Nagano]] (Snow Monkeys · Shibu Onsen) · [[#🍣 KANAZAWA ("Little Kyoto")|Kanazawa]] (Kenroku-en yukitsuri · Shirakawa-go · snow crab) · [[#🦌 NIKKO|Nikko]] (snowy shrines · frozen Kegon Falls) · [[#🗼 TOKYO|Tokyo]] (January sumo · Setsubun) · [[#🌊 HIROSHIMA & MIYAJIMA|Hiroshima]] (oyster season)
 
 ---
 
 ## 🗼 TOKYO
-> **Recommended stay: 8 days** (includes Nikko day trip) · See `japan_days_per_city.md`
+> **Recommended stay: 7 days** (includes Nikko day trip + sumo day) + 2 final days · See `japan_days_per_city.md`
 
 ### ⛩️ Temples & Shrines
 | Name | Neighborhood | ⏱️ Time | 💴 Entry (JPY) | Notes |
@@ -71,6 +71,9 @@
 |---|---|---|---|---|
 | Kodokan Judo Institute | Bunkyo | 1–2 hrs | FREE | World HQ of Judo; museum + watch live morning/evening practice |
 | Nippon Budokan | Chiyoda | Varies | Varies | Historic budo arena; Judo & budo events held here |
+| **Ryogoku Kokugikan — January Grand Sumo** | Ryogoku | 3–4 hrs | ¥3,800–11,000 | 15-day tournament (expected Jan 9–23, 2028); ⚠️ **tickets on sale ~early Dec** · top division 16:00–18:00 |
+| Sumo Museum | Ryogoku | 30 min | FREE | Inside the Kokugikan; ticket holders only during tournaments |
+| Chanko nabe restaurants | Ryogoku | 1 hr | ¥2,000–4,000 | Sumo wrestlers' hot pot; many run by retired wrestlers |
 
 ### 🎌 Manga, Anime & Pop Culture
 | Name | Neighborhood | ⏱️ Time | 💴 Entry (JPY) | Notes |
@@ -89,7 +92,7 @@
 ### 🌿 Nature & Parks
 | Name | Neighborhood | ⏱️ Time | 💴 Entry (JPY) | Notes |
 |---|---|---|---|---|
-| Shinjuku Gyoen | Shinjuku | 1.5–2 hrs | ¥500 | Best cherry blossoms in Tokyo (late March–April) |
+| Shinjuku Gyoen | Shinjuku | 1.5–2 hrs | ¥500 | Huge garden; greenhouse is a warm winter escape |
 | Ueno Park | Ueno | 2–3 hrs | FREE | Huge park with museums, zoo & cherry trees (museums extra) |
 | Yoyogi Park | Harajuku | 1–2 hrs | FREE | Great for people-watching & picnics |
 | Koishikawa Korakuen | Bunkyo | 1–2 hrs | ¥300 | Classic Edo-era strolling garden |
@@ -166,7 +169,8 @@
 | Name | District | ⏱️ Time | 💴 Entry (JPY) | Notes |
 |---|---|---|---|---|
 | Arashiyama Bamboo Grove | Arashiyama | 30–60 min | FREE | Best at dawn before crowds arrive |
-| Sagano Romantic Train | Arashiyama | 25 min OW | ¥880 | Scenic rail through river gorge (seasonal) |
+| Sagano Romantic Train | Arashiyama | 25 min OW | ¥880 | ❄️ **Closed Jan–Feb**; runs Mar–Dec |
+| Okochi Sanso Villa | Arashiyama | 1 hr | ¥1,000 | Hillside villa gardens above the bamboo grove; matcha included |
 | Philosopher's Path | Higashiyama | 1–1.5 hrs | FREE | Canal walk lined with cherry trees |
 | Maruyama Park | Higashiyama | 1 hr | FREE | Famous weeping cherry tree |
 | Kibune & Kurama | North | 3–4 hrs | ¥250 cable car | Mountain villages; Kurama-dera temple; half-day excursion |
@@ -275,50 +279,69 @@
 ### 🌿 Nature & Parks
 | Name | ⏱️ Time | 💴 Entry (JPY) | Notes |
 |---|---|---|---|
-| Kegon Waterfall | 30–45 min | FREE | 97m drop; one of Japan's top 3 waterfalls; elevator ¥570 |
+| Kegon Waterfall | 30–45 min | FREE | 97m drop; one of Japan's top 3 waterfalls; often half-frozen in Jan; elevator ¥570 |
 | Lake Chuzenji | 1 hr | FREE | Mountain lake above the town; scenic walk |
 | Irohazaka Winding Road | 30 min | FREE | 48 hairpin turns through maple forest (bus or taxi) |
 
 ---
 
-## 🏝️ OKINAWA
-> **Recommended stay: 4 days** · See `japan_days_per_city.md`
+## 🏂 NAGANO & HAKUBA
+> **Recommended stay: 1 night Shibu Onsen + 4 nights Hakuba** · See `japan_days_per_city.md`
 
 ### ⛩️ Temples & Shrines
-| Name | ⏱️ Time | 💴 Entry (JPY) | Notes |
-|---|---|---|---|
-| Shuri Castle | 1.5–2 hrs | ¥400 | UNESCO; HQ of Ryukyu Kingdom; fire-restored 2026 |
-| Nakagusuku Castle Ruins | 1 hr | ¥400 | Dramatic hilltop ruins with ocean views |
-| Seifa-utaki | 1 hr | ¥300 | Holiest site of Ryukyu Kingdom spirituality |
+| Name | Area | ⏱️ Time | 💴 Entry (JPY) | Notes |
+|---|---|---|---|---|
+| Zenko-ji Temple | Nagano city | 1.5 hrs | Grounds FREE; inner hall + Okaidan ~¥1,000 | 7th-century temple; walk the pitch-black Okaidan tunnel to touch the "key to paradise" |
 
 ### 🌿 Nature & Parks
-| Name | ⏱️ Time | 💴 Entry (JPY) | Notes |
-|---|---|---|---|
-| Kerama Islands | Full day | Ferry varies | World-class diving & snorkeling (day/overnight trip) |
-| Cape Manzamo | 30–45 min | FREE | Sea-eroded arch with sunset views |
-| Yanbaru National Park | Half day | FREE | North Okinawa jungle; rare wildlife |
-| Iriomote Island | Full day | Ferry varies | Remote jungle & mangroves (far south islands) |
+| Name | Area | ⏱️ Time | 💴 Entry (JPY) | Notes |
+|---|---|---|---|---|
+| Jigokudani Snow Monkey Park | Yamanouchi | 2–3 hrs incl. 30-min forest trail | ¥800 | Wild macaques in a hot spring; ⚠️ **date-specific advance ticket required Dec–Mar**; winter hours 9:00–16:00 |
+| Hakuba Mountain Harbor (Iwatake) | Hakuba | 1–2 hrs | Gondola ~¥2,000 RT | Terrace with a head-on view of the Northern Alps; no riding needed |
 
 ### 🍜 Food & Markets
-| Name | ⏱️ Time | 💴 Entry (JPY) | Notes |
-|---|---|---|---|
-| Makishi Public Market | 1–2 hrs | FREE | Naha's lively food market; sashimi on 2F |
-| Kokusai-dori Street | 1–2 hrs | FREE | Main tourist strip; try soki soba & champuru |
+| Name | Area | ⏱️ Time | 💴 Entry (JPY) | Notes |
+|---|---|---|---|---|
+| Shinshu soba | Nagano / Zenko-ji approach | 1 hr | ¥1,000–1,800 | Nagano is Japan's soba heartland; try oyaki dumplings too |
+| Echoland dining street | Hakuba | 1–2 hrs | Varies | Izakaya, ramen, yakiniku; ⚠️ reserve dinner in peak season |
+
+### 🎡 Entertainment — Snowboarding (Hakuba Valley)
+| Name | Area | ⏱️ Time | 💴 Entry (JPY) | Notes |
+|---|---|---|---|---|
+| Happo-one | Hakuba | Full day | ~¥8,400/day (2025/26) | Biggest resort in the valley; 1998 Olympic downhill venue |
+| Hakuba 47 & Goryu | Kamishiro | Full day | Valley ticket | Linked resorts; best terrain park in the valley; night riding at Goryu |
+| Tsugaike Kogen | Otari | Full day | Valley ticket | Wide, gentle slopes; good for progressing |
+| Hakuba Cortina | Otari | Full day | Valley ticket | Deepest snow in the valley; famous tree runs (advanced) |
+| **Hakuba Valley lift ticket** | All 10 resorts | Per day | ~¥10,400/day (2025/26) | Includes free shuttle buses between resorts |
+
+### 🎭 Traditional Arts & Experiences
+| Name | Area | ⏱️ Time | 💴 Entry (JPY) | Notes |
+|---|---|---|---|---|
+| Shibu Onsen ryokan night | Yamanouchi | Overnight | ¥15,000–30,000 incl. meals | 9 public bathhouses (free for guests); yukata + geta stroll; said to have inspired *Spirited Away* |
+| Hakuba public onsen | Hakuba | 1 hr | ~¥800 | Happo no Yu, Obinata no Yu, etc.; perfect after riding |
 
 ---
 
 ## 🍣 KANAZAWA ("Little Kyoto")
-> **Recommended stay: 2 days** · See `japan_days_per_city.md`
+> **Recommended stay: 3 days** (includes Shirakawa-go day trip) · See `japan_days_per_city.md`
 
 ### 🏛️ Cultural & Historical
 | Name | ⏱️ Time | 💴 Entry (JPY) | Notes |
 |---|---|---|---|
-| Kenroku-en Garden | 1.5–2 hrs | ¥320 | One of Japan's top 3 gardens |
+| Kenroku-en Garden | 1.5–2 hrs | ¥320 | One of Japan's top 3 gardens; winter **yukitsuri** rope cones over the pines |
 | Kanazawa Castle Park | 1–1.5 hrs | FREE | Restored castle; some buildings ¥320 |
 | Higashi Chaya District | 1–2 hrs | FREE | Preserved geisha district; tea house interiors ¥500+ |
 | 21st Century Museum of Contemporary Art | 1.5–2 hrs | FREE | Free zone + paid exhibitions ¥1,020 |
+| Nagamachi Samurai District | 1 hr | FREE; Nomura-ke ¥550 | Preserved samurai residences |
+| **Shirakawa-go** (day trip) | Full day | Houses ¥300–400 | UNESCO gassho-zukuri village buried in snow; ⚠️ **book highway bus**; light-up ~4 nights/season, reservation-only |
+
+### 🍜 Food & Markets
+| Name | ⏱️ Time | 💴 Entry (JPY) | Notes |
+|---|---|---|---|
 | Omicho Market | 1 hr | FREE | Fresh seafood; amazing uni & crab |
+| Snow crab (zuwai-gani) | 1–2 hrs | ¥5,000–20,000 | Winter season (Nov–Mar); Kanazawa's signature winter meal |
+| Kanazawa oden | 1 hr | ¥1,500–3,000 | Local winter comfort food; Miyuki, Akadama |
 
 ---
 
-*Last updated: May 2026 | See `japan_days_per_city.md` for day planning | See `japan_budget.md` for costs*
+*Last updated: 2026-09-23 | See `japan_days_per_city.md` for day planning | See `japan_budget.md` for costs*

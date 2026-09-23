@@ -61,6 +61,12 @@
 - 📖 [History & visitor info — Truly Tokyo](https://trulytokyo.com/nippon-budokan/)
 - 📖 [Budokan overview — Japan Experience](https://www.japan-experience.com/all-about-japan/tokyo/museums-galleries/nippon-budokan)
 
+**January Grand Sumo Tournament (Ryogoku Kokugikan)**
+- 🌐 [Japan Sumo Association — official schedule & tickets](https://www.sumo.or.jp/En/)
+- 📖 [Visiting a sumo tournament — beginner's guide (The Real Japan)](https://www.therealjapan.com/visiting-a-sumo-tournament/)
+- 📖 [January Grand Sumo Tournament — Tokyo Cheapo](https://tokyocheapo.com/events/january-grand-sumo-tournament/)
+- 📖 [Seeing the Hatsu Basho on a self-guided trip — BluePlanet](https://selfguidejapan.com/blog/grand-sumo-january-2027)
+
 ---
 
 ### 🎌 Manga, Anime & Pop Culture
@@ -291,24 +297,23 @@
 
 ---
 
-## 🏝️ OKINAWA
+## 🏂 NAGANO & HAKUBA
 
-**Okinawa Overview & Islands**
-- 🎬 [OKINAWA 2026 — How To Visit The Best Islands (Kerama Islands Guide)](https://www.youtube.com/watch?v=ptmKQhvQLxQ)
-- 📖 [Ultimate Okinawa travel guide — Unseen Japan](https://unseen-japan.com/okinawa-travel-guide/)
-- 📖 [Complete Okinawa guide — Flip Japan Guide](https://flipjapanguide.com/okinawa-area-guide/)
-- 📖 [26 best things to do in Okinawa — Japan Travel Planning](https://japantravelplanning.com/things-to-do-in-okinawa/)
+**Hakuba Valley (Snowboarding)**
+- 🌐 [Hakuba Valley — official lift ticket info](https://www.hakubavalley.com/en/ticket_en/)
+- 🌐 [Hakuba Valley — JNTO official page](https://www.japan.travel/en/sports/snow/top-recommendations/hakuba-valley/)
+- 📖 [Guide to the Hakuba ski resorts — GoGoNihon](https://gogonihon.com/en/blog/guide-to-hakuba-ski-resorts/)
+- 📖 [Hakuba resort guide & travel info — Japan Ski Experience](https://japanskiexperience.com/hakuba/)
+- 📖 [Happo-one lift ticket prices — Japan Uncharted](https://japanuncharted.com/nagano/ski/happo-one-lift-tickets)
+- 📖 [Things to do around Hakuba (off the slopes) — Snow Monkey Resorts](https://www.snowmonkeyresorts.com/smr/hakuba/things-to-do-in-around-hakuba/)
 
-**Shuri Castle**
-- 📖 [Shuri Castle guide — Japan Guide](https://www.japan-guide.com/e/e7103.html)
-- 🌐 [Official Shuri Castle admission info](https://oki-park.jp/shurijo/en/info/14)
-- 🌐 [JNTO official page](https://www.japan.travel/en/spot/574/)
+**Jigokudani Snow Monkey Park**
+- 🌐 [Official park guide (hours, winter advance tickets)](https://en.jigokudani-yaenkoen.co.jp/guide/)
+- 🌐 [Snow Monkey Pass (train + bus + entry bundle)](https://www.snowmonkeyresorts.com/access/snow-monkey-1-day-pass/)
+- 📖 [Jigokudani Monkey Park — Japan Cheapo](https://japancheapo.com/place/jigokudani-monkey-park-nagano/)
 
-**Kerama Islands (Diving & Snorkeling)**
-- 📖 [Kerama Islands travel guide — Japan Guide](https://www.japan-guide.com/e/e7190.html)
-
-**Nakagusuku Castle Ruins**
-- 📖 [Nakagusuku Ruins guide — Japan Guide](https://www.japan-guide.com/e/e7115.html)
+**Zenko-ji Temple & Shibu Onsen**
+- 📖 [Hakuba, Zenko-ji & nearby onsen towns — Japan Ski Experience](https://japanskiexperience.com/resorts/hakuba/12-best-things-to-do/)
 
 ---
 
@@ -338,6 +343,11 @@
 **Omicho Market**
 - 📖 [Omicho Market guide — Japan Guide](https://www.japan-guide.com/e/e4203.html)
 
+**Shirakawa-go (Day Trip + Winter Light-Up)**
+- 🌐 [Shirakawa-go Tourist Association — light-up schedule announcements](https://shirakawa-go.gr.jp/en/events/140/)
+- 📖 [Shirakawago Winter Light-Up — Japan Guide](https://www.japan-guide.com/e/e5956.html)
+- 📖 [Things to know for the winter light-up — Japan Activity](https://japanactivity.com/shirakawa-go-winter-light-up)
+
 ---
 
 ## 🔗 General Japan Travel Resources
@@ -350,6 +360,7 @@
 | Japan Cheapo | [japancheapo.com](https://japancheapo.com) | Budget tips nationwide |
 | Inside Kyoto | [insidekyoto.com](https://www.insidekyoto.com) | Deep Kyoto coverage |
 | Visit Kanazawa | [visitkanazawa.jp](https://visitkanazawa.jp/en/) | Official Kanazawa guide |
+| Hokuriku Arch Pass | [westjr.co.jp](https://www.westjr.co.jp/travel-information/en/tickets-passes/other/hokuriku-arch-pass/) | Regional pass info (doesn't pay off on this pacing) |
 | TDR Explorer | [tdrexplorer.com](https://tdrexplorer.com) | Tokyo Disney Resort deep dive |
 | Truly Tokyo | [trulytokyo.com](https://trulytokyo.com) | Tokyo neighborhood guides |
 | Plan Japan Smart | [planjapansmart.com](https://planjapansmart.com) | Itinerary planning |
@@ -357,4 +368,4 @@
 ---
 
 *See `japan_poi.md` for entry fees & time estimates | See `japan_days_per_city.md` for day planning*
-*Last updated: May 2026*
+*Last updated: 2026-09-23*

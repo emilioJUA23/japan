@@ -27,8 +27,8 @@ japan/
 | Traveler | Luis (luis.juarez2394@gmail.com) |
 | Departure city | Guatemala City, Guatemala (GUA) |
 | Trip duration | ~30 days |
-| Target season | Cherry Blossom — late March to early April 2027 |
-| Key interests | Martial arts, manga/anime, cultural & historical sites, food |
+| Target season | ❄️ Winter — **2028-01-07 → 2028-02-04** (on the `winter` git branch; `main` keeps the cherry blossom 2027 plan) |
+| Key interests | Martial arts, manga/anime, cultural & historical sites, food, **snowboarding** |
 | Passport | Guatemalan — visa-free entry to Japan up to 90 days |
 
 ---
@@ -87,13 +87,13 @@ japan/
 
 | File | Status | Contents |
 |---|---|---|
-| `japan_poi.md` | ✅ Complete (v3) | 9 cities (Nagasaki removed); POIs with ⏱️ time + 💴 real entry fees |
-| `japan_trip_overview.md` | ✅ Complete (v1) | Route, transport, budget overview, festivals, links |
-| `japan_budget.md` | ✅ Complete (v3) | 9 tabs; Nagasaki removed; grand total $7,321–$14,508 |
-| `japan_days_per_city.md` | ✅ Complete (v2) | Tokyo 8d, Kyoto 6d; 28-day calendar; Nagasaki removed |
-| `japan_references.md` | ✅ Complete (v2) | Videos & articles for all active POIs (Nagasaki removed) |
-| `japan_todo.md` | ✅ Complete (v1) | Master checklist: reservations, flights, hotels, vaccines, purchases |
-| `japan_itinerary.md` | ✅ Complete (v1) | Day 0–29: full day-by-day with transport, activities, meals, costs |
+| `japan_poi.md` | ✅ Complete (v4) | Okinawa removed; Nagano & Hakuba added; sumo + Shirakawa-go; ⏱️ time + 💴 fees |
+| `japan_trip_overview.md` | ✅ Complete (v2) | Winter route, no-JR-Pass transport plan, winter events, links |
+| `japan_budget.md` | ✅ Complete (v4) | 10 tabs; snowboarding in TAB 5; grand total $6,951–$14,517; savings $550/mo to Jan 2028 |
+| `japan_days_per_city.md` | ✅ Complete (v3) | Tokyo 7d, Nagano 1d, Hakuba 4d, Kanazawa 3d, Kyoto 6d; dated 28-day calendar |
+| `japan_references.md` | ✅ Complete (v3) | Okinawa removed; Hakuba, Snow Monkeys, sumo, Shirakawa-go added |
+| `japan_todo.md` | ✅ Complete (v2) | Winter 2028 deadlines; no JR Pass; ski lodging, sumo, rentals |
+| `japan_itinerary.md` | ✅ Complete (v2) | Day 0–29 winter route; PDF export is stale (still the spring plan) |
 | Packing list | 🔲 Not started | Will be `japan_packing.md` |
 | Bookings tracker | 🔲 Not started | Will be `japan_bookings.md` |
 | Flights (booked) | 🔲 Not started | Fill into `japan_budget.md` TAB 1 when purchased |
@@ -104,16 +104,19 @@ japan/
 
 ### Flights (GUA → Tokyo)
 - Off-peak baseline: ~$672 one-way / ~$1,095 RT
-- Cherry blossom season premium: +25–40% above baseline
-- Budget target: $1,200 (low) → $2,200 (high) RT economy
+- Mid-January is close to off-peak (avoid late-Dec/early-Jan holiday peak)
+- Budget target: $1,000 (low) → $1,700 (high) RT economy
 - No direct flights; always 1–2 stops via US hubs (LAX, DFW, IAH)
 - Best airlines: United (via IAH/LAX), American + JAL codeshare
-- Best booking window: October–November 2026
+- Best booking window: October–November 2027 (for January 2028)
 - Sources checked: Expedia, Kayak, Cheapflights, Kiwi.com, Google Flights
 
 ### In-Japan Costs
 - Pulled from `japan_trip_overview.md` and travel research
-- JR Pass 30-day: ~$600–670 (must buy before leaving Guatemala)
+- **No 30-day JR Pass exists** (7/14/21-day only). On the winter route, point-to-point Shinkansen (~$440–500) beats the 21-day pass (¥100,000); Hokuriku Arch Pass (¥35,000/7d) doesn't pay off either
+- Hakuba lift tickets (2025/26): Happo-one ~¥8,400/day, Hakuba Valley ~¥10,400/day
+- Snow Monkey Park: ¥800; date-specific advance ticket required Dec–Mar
+- January sumo tournament starts the 2nd Sunday of January → expected Jan 9–23, 2028; tickets on sale ~early December
 - Daily food budget: $30–60/day mixing convenience + restaurants
 - Accommodation: $50–100/night for business hotels
 
@@ -121,13 +124,15 @@ japan/
 
 ## 🔜 Next Steps (Suggested)
 
-1. **Book flights** — set Google Flights alert for GUA → NRT/HND, target Oct–Nov 2026
-2. **Book Ghibli Museum tickets** — go on sale ~3 months ahead; set reminder
-3. **Book teamLab Borderless** — book as soon as dates are confirmed
-4. **Build `japan_itinerary.md`** — day-by-day schedule with cities, POIs, travel days
-5. **Build `japan_bookings.md`** — track all confirmed reservations (flights, hotels, tickets)
-6. **Fill in `Planned (USD)` column** in `japan_budget.md` as decisions are made
-7. **Verify JPY/USD exchange rate** closer to trip date and update throughout budget
+1. **Keep saving** — $550/mo through Dec 2027 (see `japan_budget.md` TAB 10)
+2. **Re-point flight alerts** to Jan 7 → Feb 4, 2028 once fares appear (~Feb 2027)
+3. **Book Hakuba lodging + Shibu Onsen ryokan** — June 2027
+4. **Check Shirakawa-go light-up dates** — announced ~July 2027
+5. **Book city hotels** — August 2027 (Kyoto overlaps Chinese New Year, Jan 26)
+6. **Book flights** — October–November 2027
+7. **Sumo + Ghibli + Snow Monkey tickets** — early December 2027
+8. **Regenerate PDFs** of `japan_itinerary.md` and `japan_days_per_city.md` (the current ones show the spring plan)
+9. **Build `japan_packing.md`** — winter + snowboard packing list
 
 ---
 
