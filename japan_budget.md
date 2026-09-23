@@ -20,7 +20,7 @@
 | Season | Cherry Blossom — Late March to Early April |
 | Target Year | 2027 |
 | Exchange Rate Used | 150 JPY / 1 USD |
-| Last Updated | 2026-05-25 |
+| Last Updated | 2026-08-31 |
 
 ---
 
@@ -215,20 +215,28 @@
 
 ### 🗓️ Month-by-Month Payment Calendar — Recommended Plan ($1,100/month)
 
-| Month | Save | Running Total | Pay For | Amount | Balance After | ⚠️ Must Have |
-|---|---|---|---|---|---|---|
-| Jun 2026 | 1100 | 1100 | — | — | 1100 | 0 |
-| Jul 2026 | 1100 | 2200 | — | — | 2200 | 0 |
-| Aug 2026 | 1100 | 3300 | — | — | 3300 | 0 |
-| **Sep 2026** | 1100 | 4400 | All hotels (all cities, all nights) | 2000 | 2400 | 2000 |
-| **Oct 2026** | 1100 | 3500 | Round-trip flights GUA→NRT/HND | 1700 | 1800 | 1700 |
-| **Nov 2026** | 1100 | 2900 | JR Pass 30-day + USJ tickets + DisneySea ticket | 800 | 2100 | 800 |
-| **Dec 2026** | 1100 | 3200 | Travel insurance + Ghibli + teamLab + Shibuya Sky | 350 | 2850 | 350 |
-| **Jan 2027** | 1100 | 3950 | Pocket WiFi reservation + domestic flights (2x) | 240 | 3710 | 240 |
-| Feb 2027 | 1100 | 4810 | — | — | **4810** | 0 |
-| **Mar 2027** | ✈️ DEPART | | Japan trip spending (see breakdown below) | ~4000 | ~810 surplus | |
+| Month | Save (Planned) | Save (Actual) | Running Total (Planned) | Running Total (Actual) | Pay For | Amount | Balance After | ⚠️ Must Have |
+|---|---|---|---|---|---|---|---|---|
+| Jun 2026 | 1100 | 1100 | 1100 | 1100 | — | — | 1100 | 0 |
+| Jul 2026 | 1100 | 448 | 2200 | 1548 | — | — | 2200 | 0 |
+| Aug 2026 | 1100 | 590 | 3300 | 2138 | — | — | 3300 | 0 |
+| **Sep 2026** | 1100 | | 4400 | | All hotels (all cities, all nights) | 2000 | 2400 | 2000 |
+| **Oct 2026** | 1100 | | 3500 | | Round-trip flights GUA→NRT/HND | 1700 | 1800 | 1700 |
+| **Nov 2026** | 1100 | | 2900 | | JR Pass 30-day + USJ tickets + DisneySea ticket | 800 | 2100 | 800 |
+| **Dec 2026** | 1100 | | 3200 | | Travel insurance + Ghibli + teamLab + Shibuya Sky | 350 | 2850 | 350 |
+| **Jan 2027** | 1100 | | 3950 | | Pocket WiFi reservation + domestic flights (2x) | 240 | 3710 | 240 |
+| Feb 2027 | 1100 | | 4810 | | — | — | **4810** | 0 |
+| **Mar 2027** | ✈️ DEPART | | | | Japan trip spending (see breakdown below) | ~4000 | ~810 surplus | |
 
-**Total saved:** 9900 | **Total pre-paid before departure:** 5090 | **Cash brought to Japan:** ~4810
+**Total saved (planned):** 9900 | **Total pre-paid before departure:** 5090 | **Cash brought to Japan (planned):** ~4810
+
+> ⚠️ **Jul–Aug 2026 shortfall:** Jul saved $448, Aug saved ~$590 (Q4,500 at ~7.63 GTQ/USD), vs. $1,100 planned each — a combined **$1,162 shortfall**. Actual running total after Aug is **$2,138** vs. planned **$3,300**.
+>
+> **Checkpoint impact:** All critical booking checkpoints are still met if $1,100/mo resumes Sep–Feb (Sep hotels: ~$3,238 vs $2,000 min; Oct flights: ~$2,338 vs $1,700 min; Nov tickets: ~$1,738 vs $800 min) — but every checkpoint has a thinner margin.
+>
+> **Departure impact:** If unrecovered, end-of-Feb total lands at ~$8,738 vs planned $9,900, cutting cash brought to Japan from ~$4,810 to **~$3,648** — only ~$150 above the $3,500 minimum, so the in-Japan buffer nearly disappears.
+>
+> **To fully recover:** make up $1,162 over Sep–Feb = **~$194 extra/month** (~$1,294/mo, roughly Q9,900/mo at current rate).
 
 ---
 
@@ -299,4 +307,4 @@ These are the months where your balance must meet a minimum — if you fall shor
 ---
 
 *See `japan_poi.md` for POI list | See `japan_trip_overview.md` for route & logistics | See `CLAUDE.md` for how this trip is being built*
-*Last updated: 2026-05-27*
+*Last updated: 2026-08-31*

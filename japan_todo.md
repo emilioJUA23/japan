@@ -15,10 +15,8 @@
 
 ### US Transit ⚠️ Critical
 > Guatemala is **NOT** on the US Visa Waiver Program. Even an airside connection through LAX, DFW, or IAH requires a valid US visa.
-- [ ] **Confirm you have a valid US B-1/B-2 visa** (or C-1 transit visa) before booking a US-hub itinerary
-  - If your US visa is expired or you don't have one, consider routing through **Mexico City (MEX)** with ANA or JAL — no Mexican visa needed for Guatemalans
-  - Alternative: route through **Seoul (ICN)** on Korean Air or **Taipei (TPE)** on EVA Air — no visa needed for Guatemalans in either country
-- [ ] Check US visa **expiration date** is beyond your travel dates if you already have one
+- [x] **Confirm you have a valid US B-1/B-2 visa** (or C-1 transit visa) before booking a US-hub itinerary — ✅ Luis has a valid US visa, cleared for any US-hub routing (LAX/DFW/IAH)
+- [ ] Check US visa **expiration date** is beyond your travel dates (through at least April 2027)
 
 ---
 
@@ -46,8 +44,8 @@
 
 | Item | Target Deadline | Status | Booking Ref |
 |---|---|---|---|
-| Set Google Flights price alert (GUA → NRT/HND) | Now | ⬜ | — |
-| Confirm US transit visa or alternative routing | Before booking | ⬜ | — |
+| Set Google Flights + Kayak price alerts (GUA → NRT/HND) | Now | ✅ | Lowest seen: $1,140 RT (2026-07-07, Kayak — down $60) |
+| Confirm US transit visa or alternative routing | Before booking | ✅ | Valid US visa confirmed — any US-hub route OK |
 | Book round-trip economy GUA → NRT/HND | Oct–Nov 2026 | ⬜ | — |
 | Save e-ticket and add to phone wallet | After booking | ⬜ | — |
 | Book airport transfer NRT/HND → Tokyo hotel | After flight booked | ⬜ | — |
@@ -151,7 +149,7 @@
 
 | Window | Actions |
 |---|---|
-| **Now (May–Aug 2026)** | Set Google Flights alert · Confirm US visa/routing · Start Hep A/B vaccine series if needed |
+| **Now (May–Aug 2026)** | ~~Set Google Flights + Kayak alerts~~ ✅ · ~~Confirm US visa/routing~~ ✅ · Start Hep A/B vaccine series if needed |
 | **Sep 2026** | Book hotels for all cities (cherry blossom season fills fast) |
 | **Oct–Nov 2026** | **Book flights** (best pricing window) |
 | **Nov–Dec 2026** | Buy JR Pass · Book USJ and DisneySea tickets |
@@ -166,7 +164,7 @@
 ## ✅ FINAL PRE-DEPARTURE CHECKLIST
 
 - [ ] Passport valid and checked
-- [ ] US transit visa confirmed (or alternative routing booked)
+- [x] US transit visa confirmed (or alternative routing booked)
 - [ ] Visit Japan Web registration completed
 - [ ] All vaccinations completed
 - [ ] JR Pass voucher printed and packed
@@ -202,4 +200,4 @@
 ---
 
 *See `japan_poi.md` for POI list · `japan_budget.md` for cost estimates · `japan_days_per_city.md` for full itinerary*
-*Last updated: 2026-05-27*
+*Last updated: 2026-07-07*
