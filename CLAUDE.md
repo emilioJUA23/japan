@@ -15,7 +15,8 @@ japan/
 ├── japan_days_per_city.md     ← Days needed per city with suggested day breakdowns & calendar
 ├── japan_references.md        ← YouTube videos & articles for every POI (for research & decisions)
 ├── japan_todo.md              ← Master checklist: reservations, flights, hotels, vaccines, purchases
-└── japan_itinerary.md         ← Full day-by-day itinerary: flights, transport, activities, meals
+├── japan_itinerary.md         ← Full day-by-day itinerary: flights, transport, activities, meals
+└── japan_winter_sakura.md     ← DRAFT: Feb–Apr 2028 snow + sakura option, decision checklist
 ```
 
 ---
@@ -27,7 +28,7 @@ japan/
 | Traveler | Luis (luis.juarez2394@gmail.com) |
 | Departure city | Guatemala City, Guatemala (GUA) |
 | Trip duration | ~30 days |
-| Target season | ❄️ Winter — **2028-01-07 → 2028-02-04** (on the `winter` git branch; `main` keeps the cherry blossom 2027 plan) |
+| Target season | ❄️ Winter — **2028-01-07 → 2028-02-04** (on `main`; the `sakura` branch keeps the cherry blossom 2027 plan) |
 | Key interests | Martial arts, manga/anime, cultural & historical sites, food, **snowboarding** |
 | Passport | Guatemalan — visa-free entry to Japan up to 90 days |
 
@@ -94,6 +95,7 @@ japan/
 | `japan_references.md` | ✅ Complete (v3) | Okinawa removed; Hakuba, Snow Monkeys, sumo, Shirakawa-go added |
 | `japan_todo.md` | ✅ Complete (v2) | Winter 2028 deadlines; no JR Pass; ski lodging, sumo, rentals |
 | `japan_itinerary.md` | ✅ Complete (v2) | Day 0–29 winter route; PDF export is stale (still the spring plan) |
+| `japan_winter_sakura.md` | 📝 Draft (v1) | Decision draft: Feb 20 – Apr 4, 2028 snow + sakura trip; compares all 3 plans; not yet adopted |
 | Packing list | 🔲 Not started | Will be `japan_packing.md` |
 | Bookings tracker | 🔲 Not started | Will be `japan_bookings.md` |
 | Flights (booked) | 🔲 Not started | Fill into `japan_budget.md` TAB 1 when purchased |

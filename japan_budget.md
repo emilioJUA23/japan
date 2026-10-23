@@ -219,7 +219,7 @@
 ## TAB 10 — MONTHLY SAVINGS PLAN
 
 > **Savings window:** June 2026 → December 2027 = **19 months** before departure (**2028-01-07**)
-> **Already saved (Jun–Aug 2026 actual):** $2,138 → **16 months left** (Sep 2026 → Dec 2027)
+> **Already saved (actual, through Sep 2026):** $6,225, including the $2,500 starting balance and May 2026 → **15 months left** (Oct 2026 → Dec 2027)
 > Moving the trip to January 2028 roughly **halves the monthly target** compared to the old March 2027 plan ($1,100/mo).
 
 ---
@@ -232,7 +232,9 @@
 | 🟡 Comfortable ← Recommended | 11000 | 550 | Mid-range flights (~$1,400), comfortable hotels, ryokan night, all key attractions, snowboarding + lesson, moderate shopping |
 | 🔴 Full Send | 15000 | 800 | Premium economy, ski-in lodging in Hakuba, extra ryokan, crab and omakase dinners, full shopping budget |
 
-> **Why $550?** $2,138 + (16 × $550) = **$10,938**. That covers ~$4,620 of pre-payments and leaves ~$6,320 to spend in Japan, including ~$1,100 of buffer.
+> **Why $550?** The plan was set from a $2,138 starting figure: $2,138 + (16 × $550) = **$10,938**. That covers ~$4,620 of pre-payments and leaves ~$6,320 to spend in Japan, including ~$1,100 of buffer.
+>
+> 📈 **Actual status (Sep 2026):** $6,225 saved, **$3,537 ahead** of the plan's $2,688. Reaching $10,938 now needs only **~$315/month** (Oct 2026 → Dec 2027). Staying at $550/month would reach **~$14,475**, close to Full Send.
 
 ---
 
@@ -240,10 +242,12 @@
 
 | Month | Save (Planned) | Save (Actual) | Running Total (Planned) | Running Total (Actual) | Pay For | Amount | Balance After | ⚠️ Must Have |
 |---|---|---|---|---|---|---|---|---|
-| Jun 2026 | 1100 | 1100 | 1100 | 1100 | — | — | 1100 | 0 |
-| Jul 2026 | 1100 | 448 | 2200 | 1548 | — | — | 1548 | 0 |
-| Aug 2026 | 1100 | 590 | 3300 | 2138 | — | — | 2138 | 0 |
-| Sep 2026 | 550 | | 2688 | | — | — | 2688 | 0 |
+| Before May 2026 | — | 2500 | — | 2500 | — | — | 2500 | 0 |
+| May 2026 | — | 700 | — | 3200 | — | — | 3200 | 0 |
+| Jun 2026 | 1100 | 1050 | 1100 | 4250 | — | — | 4250 | 0 |
+| Jul 2026 | 1100 | 500 | 2200 | 4750 | — | — | 4750 | 0 |
+| Aug 2026 | 1100 | 325 | 3300 | 5075 | — | — | 5075 | 0 |
+| Sep 2026 | 550 | 1150 | 2688 | 6225 | — | — | 2688 | 0 |
 | Oct 2026 | 550 | | 3238 | | — | — | 3238 | 0 |
 | Nov 2026 | 550 | | 3788 | | — | — | 3788 | 0 |
 | Dec 2026 | 550 | | 4338 | | — | — | 4338 | 0 |
@@ -263,7 +267,7 @@
 
 **Total saved (planned):** 10938 | **Total pre-paid before departure:** 4620 | **Cash brought to Japan (planned):** ~6318
 
-> ℹ️ **Jul–Aug 2026 shortfall (old plan):** Jul saved $448 and Aug ~$590 (Q4,500 at ~7.63 GTQ/USD) vs. $1,100 planned. With the trip moved to January 2028, **this no longer puts anything at risk**. The new plan starts from the actual $2,138.
+> ℹ️ **Actuals source:** the local `japan_savings_tracker.md` (gitignored) is the source of truth for the Save (Actual) column. Jun–Aug 2026 were below the old $1,100/mo spring plan (Aug: Q2,500 at ~Q7.70 = $1). Counting the $2,500 starting balance and $700 from May, total savings are still well ahead of this plan. The Planned columns and Balance After from Sep 2026 on still follow the original $2,138-based plan.
 >
 > 💡 **Tip:** if you keep saving more than $550/mo, the extra goes straight to the in-Japan buffer or a Full Send upgrade (e.g., ski-in lodging or a second ryokan night).
 
@@ -338,4 +342,4 @@ With $550/month, every checkpoint is met with a large margin. The real risk is *
 ---
 
 *See `japan_poi.md` for POI list | See `japan_trip_overview.md` for route & logistics | See `CLAUDE.md` for how this trip is being built*
-*Last updated: 2026-09-23*
+*Last updated: 2026-10-23*
